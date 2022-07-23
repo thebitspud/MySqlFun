@@ -1,0 +1,1001 @@
+Subject,Course,Title,Enrolled,Avg
+WRDS,150,"Writing and Research in the Disciplines",2790,74.109677419
+PSYC,102,"Introduction to Developmental, Social, Personality, and Clinical Psychology",2531,71.521532991
+ECON,101,"Principles of Microeconomics",2296,68.93466899
+PSYC,101,"Introduction to Biological and Cognitive Psychology",2122,71.866163996
+ECON,102,"Principles of Macroeconomics",2029,68.423361262
+ATSC,113,"Applied Meteorology",1889,78.226045527
+CHEM,121,"Structure and Bonding in Chemistry",1882,72.149840595
+WRDS,150,"Writing and Research in the Disciplines",1746,72.936426117
+BIOL,121,"Genetics, Evolution and Ecology",1732,77.132794457
+ENGL,110,"Approaches to Literature",1727,73.117544876
+MATH,100,"Differential Calculus with Applications to Physical Sciences and Engineering",1665,63.655855856
+BIOL,112,"Biology of the Cell",1604,78.493765586
+CHEM,123,"Thermodynamics, Kinetics and Organic Chemistry",1574,73.213468869
+MATH,101,"Integral Calculus with Applications to Physical Sciences and Engineering",1405,69.587900356
+CPSC,110,"Computation, Programs, and Programming",1393,74.178750897
+BIOL,200,"Fundamentals of Cell Biology",1386,72.700577201
+CRWR,200,"Introduction to Creative Writing",1350,79.227407407
+MATH,200,"Calculus III",1305,66.756321839
+BIOL,140,"Laboratory Investigations in Life Science",1255,85.123505976
+FMST,210,"Family Context of Human Development",1249,80.487590072
+PHYS,131,"Energy and Waves (Lecture)",1217,78.058340181
+CPSC,210,"Software Construction",1175,75.212765957
+CHEM,233,"Organic Chemistry for the Biological Sciences",1173,67.494458653
+CHEM,235,"Organic Chemistry Laboratory",1165,82.051502146
+MATH,104,"Differential Calculus with Applications to Commerce and Social Sciences",1136,63.705985915
+MATH,221,"Matrix Algebra",1100,71.860909091
+SOCI,102,"Inequality and Social Change",1092,76.678571429
+CPSC,121,"Models of Computation",1067,73.33552015
+MATH,102,"Differential Calculus with Applications to Life Sciences",1060,69.497169811
+PHYS,170,"Mechanics I",1056,75.881628788
+APSC,100,"Introduction to Engineering I",1017,77.903638151
+APSC,160,"Introduction to Computation in Engineering Design",1009,78.736372646
+PHYS,157,"Introductory Physics for Engineers I",1007,74.735849057
+MATH,105,"Integral Calculus with Applications to Commerce and Social Sciences",1006,68.880715706
+EOSC,114,"The Catastrophic Earth: Natural Disasters",1005,74.71641791
+DSCI,100,"Introduction to Data Science",998,81.228456914
+CPSC,103,"Introduction to Systematic Program Design",960,73.641666667
+COMM,298,"Introduction to Finance",956,74.758368201
+STAT,200,"Elementary Statistics for Applications",954,74.030398323
+CPSC,221,"Basic Algorithms and Data Structures",950,81.225263158
+MATH,152,"Linear Systems",925,66.846486486
+COMM,202,"Career Fundamentals",920,78.197826087
+COMM,290,"Introduction to Quantitative Decision Making",911,72.316136114
+EOSC,116,"Mesozoic Earth: Time of the Dinosaurs.",888,75.496621622
+SOCI,101,"Social Interaction and Culture",888,72.255630631
+APSC,101,"Introduction to Engineering II",884,73.778280543
+PHYS,158,"Introductory Physics for Engineers II",879,62.832764505
+COMM,291,"Application of Statistics in Business",877,70.737742303
+COMM,292,"Management and Organizational Behaviour",872,75.600917431
+PHYS,159,"Introductory Physics Laboratory for Engineers",867,84.098039216
+COMM,296,"Introduction to Marketing",866,76.419168591
+POLI,100,"Introduction to Politics",860,74.229069767
+PHIL,220,"Symbolic Logic",857,75.288214702
+PSYC,218,"Analysis of Behavioural Data",856,69.956775701
+PSYC,217,"Research Methods",851,73.130434783
+COMM,294,"Managerial Accounting",849,74.83745583
+COMM,395,"Business Communications",827,76.429262394
+PSYC,300,"Abnormal Psychology",816,73.495098039
+BIOL,234,"Fundamentals of Genetics",815,71.747239264
+PSYC,305,"Personality Psychology",814,76.090909091
+CHEM,154,"Chemistry for Engineering",813,70.856088561
+PSYC,314,"Health Psychology",800,77.2275
+COMM,390,"Business Writing",790,78.158227848
+COMM,295,"Managerial Economics",786,74.718829517
+PSYC,307,"Cultural Psychology",786,74.709923664
+APSC,450,"Professional Engineering Practice",771,81.492866407
+COMM,101,"Business Fundamentals",771,73.866407263
+PSYC,315,"Childhood and Adolescence",765,70.691503268
+MATH,103,"Integral Calculus with Applications to Life Sciences",763,62.376146789
+COMM,205,"Introduction to Management Information Systems",758,75.244063325
+COMM,203,"Managing the Employment Relationship",753,75.863213811
+CPSC,213,"Introduction to Computer Systems",753,73.990703851
+COMM,394,"Environment, Society, and Government",750,76.322666667
+COMM,204,"Logistics and Operations Management",749,76.473965287
+POLI,101,"The Government of Canada",744,71.293010753
+MATH,256,"Differential Equations",735,68.859863946
+STAT,251,"Elementary Statistics",726,73.465564738
+LING,101,"Languages of the World",722,81.21468144
+COMM,186,"Topics in Business I",712,73.721910112
+PSYC,302,Infancy,708,75.519774011
+ANTH,100,"Introduction to Cultural Anthropology",690,75.476811594
+EOSC,118,"Earth's Treasures: Gold and Gems",689,79.204644412
+MATH,253,"Multivariable Calculus",659,75.784522003
+CPSC,320,"Intermediate Algorithm Design and Analysis",659,74.610015175
+MATH,220,"Mathematical Proof",652,64.056748466
+PSYC,309,"Cognitive Processes",649,76.476117103
+COMM,393,"Commercial Law",642,75.292834891
+PHYS,100,"Introductory Physics",638,74.794670846
+LING,100,"Introduction to Language and Linguistics",636,77.817610063
+COMM,293,"Financial Accounting",624,76.703525641
+CPSC,313,"Computer Hardware and Operating Systems",607,79.103789127
+CHEM,135,"Introductory Chemical Laboratory II",600,82.391666667
+BIOL,230,"Fundamentals of Ecology",593,77.478920742
+MICB,202,"Introductory Medical Microbiology and Immunology",587,76.463373083
+ECON,355,"Introduction to International Trade",587,74.930153322
+FREN,101,"Beginners' French I",586,80.709897611
+CPSC,310,"Introduction to Software Engineering",583,85.807890223
+BIOL,260,"Fundamentals of Physiology",578,77.323529412
+PSYC,308,"Social Psychology",572,76.804195804
+BIOL,300,"Fundamentals of Biostatistics",533,80.868667917
+CLST,301,"The Technical Terms of Medicine and Biological Science",532,74.486842105
+BIOL,111,"Introduction to Modern Biology",532,73.817669173
+CRWR,213,"Introduction to Writing for the New Media",527,84
+POLI,260,"Introduction to Global Politics",526,75.176806084
+FNH,200,"Exploring Our Food",522,83.250957854
+CPSC,304,"Introduction to Relational Databases",520,81.965384615
+BIOL,155,"Human Biology: Physiology and Introductory Anatomy",519,70.001926782
+ECON,345,"Money and Banking",519,72.227360308
+SOCI,200,"Sociology of Family",516,82.463178295
+PSYC,322,"Adulthood and Aging",508,74.25
+ENGL,100,"Reading and Writing about Literature",502,74.420318725
+SCIE,113,"First-Year Seminar in Science",500,81.12
+APSC,278,"Engineering Materials",490,71.673469388
+PSYC,311,"Psychology of Sport",478,74.751046025
+SOCI,250,"Crime and Society",478,72.817991632
+PSYC,301,"Brain Dysfunction and Recovery",475,75.833684211
+COMM,370,"Corporate Finance",473,72.498942918
+GRSJ,101,"Introduction to Social Justice",472,81.131355932
+PHIL,333,"Bio-Medical Ethics",468,72.987179487
+MATH,307,"Applied Linear Algebra",465,70.109677419
+ASIA,326,"Critical Approaches to Manga and Anime",463,77.406047516
+CPSC,317,"Internet Computing",462,78.9004329
+PHIL,120,"Introduction to Critical Thinking",461,79.023861171
+PSYC,350,"Psychological Aspects of Human Sexuality",460,75.169565217
+JAPN,100,"Beginning Japanese IA",460,73.897826087
+PSYC,208,"Contemporary Topics in Social, Developmental, Personality, and Clinical Psychology",457,71.417943107
+VISA,110,"Foundation Studio: Digital Media",453,77.854304636
+FNH,355,"International Nutrition",452,82.727876106
+SPAN,101,"Beginners' Spanish I",445,77.721348315
+PHYS,117,"Dynamics and Waves",441,69.120181406
+MICB,201,"Introductory Environmental Microbiology",441,85.469387755
+ECON,356,"Introduction to International Finance",440,70.120454545
+PHYS,119,"Experimental Physics Lab I",440,85.831818182
+CRWR,209,"Introduction to Writing Fiction",436,78.596330275
+FMST,314,"Relationship Development",434,83.50921659
+CPSC,322,"Introduction to Artificial Intelligence",431,70.967517401
+BIOC,202,"Introductory Medical Biochemistry",430,68.172093023
+GEOS,102,"Our Changing Environment: Climate and Ecosystems",419,80.3150358
+CHEM,205,"Physical Chemistry",414,72.379227053
+COMM,491,"Strategic Management",414,78.980676329
+KIN,420,"Prevention of Sports Injuries",407,87.823095823
+CLST,105,"Greek and Roman Mythology",407,73.609336609
+STAT,302,"Introduction to Probability",404,68.725247525
+BIOL,201,"Introduction to Biochemistry",402,77.592039801
+POLI,110,"Investigating Politics: An Introduction to Scientific Political Analysis",399,74.28320802
+MATH,215,"Elementary Differential Equations I",393,69.745547074
+APSC,279,"Engineering Materials Laboratory",391,81.163682864
+BIOL,336,"Fundamentals of Evolutionary Biology",388,80.046391753
+CPSC,100,"Computational Thinking",385,83.244155844
+CHIN,471,"Later Classical Chinese Poetry (Tang)",382,77.693717277
+KIN,205,"Research Methods in Kinesiology",381,78.173228346
+NURS,180,"Stress and Strategies to Promote Well Being",381,92.230971129
+KIN,206,"Introduction to Statistics in Kinesiology",378,73.904761905
+FREN,201,"Elementary French I",377,80.549071618
+LFS,100,"Introduction to Land, Food and Community",376,90.77393617
+COMR,457,"Fundamentals of Financial Accounting",376,72.130319149
+CPSC,340,"Machine Learning and Data Mining",370,80.183783784
+ASTU,100,"1st Year CAP Seminar",369,75.181571816
+POLI,240,"Currents of Political Thought",368,74.394021739
+LFS,250,"Land, Food and Community I: Introduction to Food Systems and Sustainability",366,79.956284153
+MATH,184,"Differential Calculus for Social Science and Commerce",365,62.62739726
+GEOG,310,"Environment and Sustainability",365,73.178082192
+FREN,202,"Elementary French II",360,78.469444444
+PHIL,101,"Introduction to Philosophy",356,72.438202247
+PSYC,304,"Brain and Behaviour",356,75.283707865
+GERM,100,"Beginners' German I",344,79.497093023
+FNH,250,"Nutrition Concepts and Controversies",343,77.83090379
+CONS,127,"Observing the Earth from Space",343,86.705539359
+SOCI,217,"Research Methods",343,69.865889213
+STAT,300,"Intermediate Statistics for Applications",343,81.303206997
+EOSC,310,"The Earth and the Solar System",342,76.236842105
+KIN,232,"Nutrition, Physical Activity, and Health",341,87.005865103
+CRWR,206,"Introduction to Writing for the Screen",336,77.074404762
+COMR,329,"Principles of Organizational Behaviour",336,77.717261905
+CHEM,211,"Introduction to Chemical Analysis",334,75.694610778
+CRWR,230,"Introduction to Writing for Comedic Forms",333,84.624624625
+FMST,312,"Parent-child Relationships",333,79.354354354
+CRWR,201,"Introduction to Writing Poetry",332,78.843373494
+KIN,424,"Medical Aspects of Sport and Exercise",332,84.921686747
+ELEC,201,"Circuit Analysis I",327,64.79204893
+SOCI,310,"Canadian Society",327,70.896024465
+CHIN,473,"Later Classical Chinese Poetry (after Tang)",325,75.633846154
+ECON,301,"Intermediate Microeconomic Analysis I",325,70.196923077
+BASC,550,Operations,324,82.50617284
+EOSC,110,"The Solid Earth: A Dynamic Planet",324,77.055555556
+FRST,303,"Principles of Forest Science",322,96.900621118
+CPEN,211,"Introduction to Microcomputers",321,73.152647975
+BA,562,Creativity,318,83.238993711
+PHIL,102,"Introduction to Philosophy II",315,75.86031746
+BIOC,302,"General Biochemistry",314,73.630573248
+COGS,200,"Introduction to Cognitive Systems",311,70.98392283
+ECON,255,"Understanding Globalization",310,78.809677419
+FIST,100,"Introduction to Film Studies",309,75.213592233
+CHIN,481,"Modern Chinese Literature I (Heritage)",308,76.36038961
+GEOS,103,"Our Changing Environment: Water and Landscapes",307,76.693811075
+ENGL,200,"Principles of Literary Studies",304,77.756578947
+FREN,102,"Beginners' French II",304,79.5625
+FNH,330,"Introduction to Wine Science 1",299,80.531772575
+MECH,360,"Mechanics of Materials",298,68.456375839
+BIOL,204,"Vertebrate Structure and Function",297,71.919191919
+FMST,316,"Human Sexuality",296,76.307432432
+EOSC,112,"The Fluid Earth: Atmosphere and Ocean",296,74.027027027
+PSYC,207,"Contemporary Topics in Biological and Cognitive Psychology",296,73.216216216
+MATH,180,"Differential Calculus with Physical Applications",294,57.238095238
+KIN,150,"Sport and Exercise Psychology",293,79.102389078
+HIST,103,"World History Since 1900",293,72.109215017
+CPSC,404,"Advanced Relational Databases",293,79
+PSYC,306,"Principles of Animal Behaviour",291,70.319587629
+ANTH,203,"Anthropology of Drugs",290,73.065517241
+ELEC,221,"Signals and Systems",289,69.346020761
+CNTO,311,"Basic Cantonese for Mandarin Speakers",289,79.968858131
+ENGL,111,"Approaches to Non-fictional Prose",289,79.408304498
+MATH,264,"Vector Calculus for Electrical Engineering",286,69.234265734
+LLED,200,"Introduction to Writing in Academic and Professional Registers",286,73.853146853
+MECH,260,"Introduction to Mechanics of Materials",283,72.385159011
+COMR,465,"Marketing Management",283,76.71024735
+SOCI,301,"Sociology of Development and Underdevelopment",283,75.402826855
+ECON,302,"Intermediate Macroeconomic Analysis I",280,73.925
+BIOL,371,"Principles of Neurobiology I",278,80.949640288
+STAT,305,"Introduction to Statistical Inference",277,76.223826715
+MATH,340,"Introduction to Linear Programming",274,62.97810219
+CRWR,208,"Introduction to Writing for Graphic Forms",273,78.835164835
+PCTH,325,"Rational Basis of Drug Therapy",273,85.835164835
+COMM,371,"Investment Theory",271,76.346863469
+CIVL,215,"Fluid Mechanics I",269,71.899628253
+CHIN,483,"Modern Chinese Literature II (Heritage)",268,76.246268657
+BIOL,335,"Molecular Genetics",268,68.888059701
+KIN,345,"Foundations of Coaching",267,92.595505618
+GEOG,121,"Geography, Environment and Globalization",267,71.292134831
+CONS,200,"Foundations of Conservation",267,75.059925094
+KIN,313,"Neuromuscular Integration of Human Movement",265,72.411320755
+CRWR,310,"Video Game Writing and Narrative",264,75.159090909
+KIN,211,"Human Motor Behaviour I",264,75.973484848
+KIN,160,"Leisure and Sport in Society",264,78.28030303
+GERM,433,"German for Reading Knowledge I",264,78.143939394
+CPSC,425,"Computer Vision",263,76.885931559
+MATH,317,"Calculus IV",262,71.122137405
+EOSC,111,"Laboratory Exploration of Planet Earth",262,92.702290076
+ECON,326,"Methods of Empirical Research in Economics",261,72.965517241
+BA,515,"Fundamentals of Analytics and Tech",260,85.319230769
+LASO,204,"Introduction to Law and Society",259,86.328185328
+LFS,350,"Land, Food, and Community II: Principles and Practice of Community Food Security",258,84.054263566
+COMM,335,"Information Systems Technology and Development",258,77.720930233
+FNH,350,"Fundamentals of Nutrition",258,77.003875969
+KIN,131,"Systems Physiology I",257,78.871595331
+APBI,200,"Introduction to Soil Science",256,69.43359375
+PHIL,331,"Business and Professional Ethics",256,76.30078125
+KIN,411,"Neuroanatomy of Human Movement",254,80.720472441
+KIN,216,"Biomechanics I",253,81.292490119
+BIOL,205,"Comparative Invertebrate Zoology",253,76.110671937
+FNH,351,"Vitamins, Minerals, and Health",252,77.51984127
+SPAN,102,"Beginners' Spanish II",252,75.023809524
+KIN,120,"Health and Exercise Management",250,72.792
+MATH,302,"Introduction to Probability",249,74.004016064
+KIN,235,"Exercise Physiology I",249,74.321285141
+CRWR,203,"Introduction to Writing for Children and Young Adults",248,77.383064516
+GRSJ,300,"Intersectional Approaches to Thinking Gender",247,86.412955466
+CENS,202,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",247,77.417004049
+CHBE,244,"Chemical and Biological Engineering Thermodynamics I",247,66.591093117
+CNPS,433,"The Personal and Social Development of the Adult",246,86.073170732
+ECON,490,"Seminar in Applied Economics",246,82.264227642
+CHEM,203,"Introduction to Organic Chemistry",244,67.008196721
+KIN,132,"Systems Physiology II",244,68.991803279
+CPSC,330,"Applied Machine Learning",244,81.040983607
+POLI,380,"Quantitative Methods in Political Science",244,70.848360656
+COMM,363,"Marketing Analysis",243,79.502057613
+ITAL,101,"Beginners' Italian I",242,77.70661157
+MATH,316,"Elementary Differential Equations II",241,68.190871369
+COMM,365,"Market Research",241,77.796680498
+VISA,180,"Foundation Studio: Approaches to Media",241,77.20746888
+ECON,371,"Economics of the Environment",240,77.220833333
+COMM,362,"Consumer Behaviour",239,78.313807531
+POLI,375,"Global Environmental Politics",239,77.744769874
+KIN,110,"Human Anatomy",238,66.558823529
+EOSC,315,"The Ocean Ecosystem",238,79.584033613
+CPEN,221,"Software Construction I",238,72.390756303
+CAPS,391,"Introduction to Gross Human Anatomy",238,69.470588235
+PSYC,216,"Questioning Psychological Science in the Media",237,71.544303797
+CHIN,485,"Contemporary Chinese Fiction in Film",235,76.90212766
+CNPS,363,"Career Counselling",234,84.982905983
+COMM,374,"Applied Financial Markets",234,74.786324786
+BASC,523,"Supply Chain Management",234,82.782051282
+CHBE,251,"Transport Phenomena I",234,71.923076923
+SPAN,201,"Elementary Spanish I",234,69.64957265
+COMM,353,"Financial Accounting: Intermediate I",233,75.180257511
+GEOS,270,"Geographic Information Science",232,77.762931034
+PHIL,230,"Introduction to Ethics",232,75.918103448
+STAT,306,"Finding Relationships in Data",231,77.705627706
+KIN,262,"Health Policy and Society",231,78.995670996
+ECON,311,"Principles of Macroeconomics",230,74.52173913
+CHBE,241,"Material and Energy Balances",230,74.42173913
+LFS,150,"Scholarly Writing and Argumentation in Land and Food Systems",229,78.576419214
+BUSI,335,"Information Systems",229,71.991266376
+CAPS,301,"Human Physiology",228,75.574561404
+CHEM,245,"Intermediate Synthetic Chemistry Laboratory",227,78.86784141
+FRST,302,"Forest Genetics",227,88.246696035
+COMM,354,"Cost Accounting",227,72.63876652
+BUSI,293,"Introductory Financial Accounting",227,71.977973568
+ASIA,325,"Hong Kong Cinema",226,77.030973451
+CIVL,316,"Hydrology and Open Channel Flow",225,73.502222222
+BIOL,325,"Introduction to Animal Mechanics and Locomotion",225,74.924444444
+CPSC,314,"Computer Graphics",225,83.226666667
+PSYC,367,"Sensory Systems",223,74.470852018
+SOCI,369,"Sociology of Sexualities",223,78.210762332
+GEOG,122,"Geography, Modernity and Globalization",222,72.166666667
+COMM,280,Entrepreneurship,222,75.189189189
+CONS,101,"Introduction to Conservation",222,86.608108108
+MATH,255,"Ordinary Differential Equations",220,69.609090909
+PHRM,141,"Seminar: Pharmacists in Practice I",220,98.672727273
+PHRM,100,"Foundations of Pharmacy",218,83.032110092
+CHEM,213,"Organic Chemistry",218,67.899082569
+CIVL,210,"Soil Mechanics I",218,71.733944954
+CHIN,131,"Basic Chinese I: Part 1 (Non-Heritage)",216,77.324074074
+KIN,320,"Exercise Testing and Prescription",216,83.791666667
+FRST,150,"Scholarly Writing and Argumentation in Forestry",216,76.37962963
+COMR,473,"Business Finance",216,70.268518519
+ECON,310,"Principles of Microeconomics",216,76.916666667
+CIVL,250,"Engineering and Sustainable Development",215,86.604651163
+ENGL,392,"Children's Literature",215,73.702325581
+PHRM,111,"Medication Management I",215,80.772093023
+PHRM,161,"Technology in Healthcare",215,92.437209302
+PSYC,320,"Psychology of Sex Differences",215,77.139534884
+BAHR,507,"Two-Party Negotiations",214,81.172897196
+CPEN,333,"System Software Engineering",214,78
+ARCL,228,"Forensic Anthropology",213,72.319248826
+BUSI,355,"Introduction to Income Tax",213,73.530516432
+PHRM,261,"Indigenous Health and Cultural Safety",213,98.910798122
+PHRM,312,"Medication Management V",213,80.366197183
+PHRM,351,"Practice Management and Leadership",213,87.507042254
+PHRM,361,"Clinical Skills: Administration of Injections",213,91.600938967
+SOCI,361,"Social Inequality",213,75.596244131
+PHRM,131,"Study Design and Interpretation I",212,92.235849057
+PHRM,311,"Medication Management IV",212,81.783018868
+CIVL,305,"Introduction to Environmental Engineering Applications",212,69.924528302
+PHRM,231,"Study Design and Interpretation II",211,74.815165877
+PHRM,341,"Seminar: Pharmacists in Practice III",211,91.388625592
+PHRM,211,"Medication Management II",210,79.685714286
+PHRM,212,"Medication Management III",210,82.042857143
+PHRM,221,"Nutrition for Pharmacists",210,83.876190476
+PHRM,241,"Seminar: Pharmacists in Practice II",210,96.752380952
+PHRM,251,"Institutional Practice Skills",210,90.304761905
+BA,507,"Business Strategy Integration: Global",209,83.282296651
+BAAC,550,"Foundations in  Accounting",209,80.837320574
+EPSE,449,"Education of Students with Autism",209,93.205741627
+MICB,302,Immunology,208,78.293269231
+BAEN,550,"Fundamentals in Entrepreneurship",205,81.151219512
+EPSE,301,"Introduction to Educational Psychology",205,82.751219512
+EOSC,340,"Global Climate Change",205,76.790243902
+PSYC,401,"Clinical Psychology",205,73.917073171
+CIVL,402,"Professionalism and Law in Civil Engineering",204,79.029411765
+FRST,100,"Sustainable Forests",204,77.514705882
+COMM,220,"Business Communications",201,80.298507463
+LFS,252,"Land, Food, and Community: Quantitative Data Analysis",199,76.43718593
+JAPN,101,"Beginning Japanese IB",199,74.849246231
+ASIA,355,"History of Chinese Cinema",198,77.464646465
+NURS,280,"Human Sexual Health",198,87.242424242
+FREN,301,"Intermediate French I",197,79.208121827
+BIOL,372,"Principles of Neurobiology II",197,77.284263959
+CRWR,205,"Introduction to Writing Creative Nonfiction",196,76.234693878
+CNPS,365,"Introduction to Theories of Counselling",196,78.831632653
+PSYC,365,"Cognitive Neuroscience",195,79.58974359
+VANT,148,"UBC Vantage College Projects",195,74.61025641
+POLI,378,"The Politics of Terrorism",194,72.891752577
+BAMA,508,"Marketing Research",194,84.963917526
+CIVL,204,"Fundamentals of Environmental Engineering",193,76.797927461
+PHYS,118,"Electricity, Light and Radiation",193,76.735751295
+MATH,303,"Introduction to Stochastic Processes",192,72.114583333
+FRST,231,"Introduction to Biometrics",192,72.671875
+FNH,371,"Human Nutrition Over The Life Span",192,80.90625
+COMM,450,"Financial Accounting - Intermediate II",192,74.776041667
+LAW,200,"Indigenous Settler Legal Relations",191,74.806282723
+KIN,344,"Leisure Services for Persons with a Disability",191,86.602094241
+COMM,468,"Marketing Applications",191,78.596858639
+PHIL,125,"Introduction to Scientific Reasoning",191,77.827225131
+ECON,317,"Poverty and Inequality",190,79.094736842
+CHEM,302,"Atmospheric Environmental Chemistry",189,76.211640212
+BIOL,342,"Integrative Biology Laboratory",189,88.132275132
+FNH,313,"Food Microbiology",187,83.673796791
+BUSI,294,"Introductory Management Accounting",187,75.262032086
+LAW,281,"Legal Research and Writing",185,74.864864865
+COMM,498,"International Business Management",185,79.4
+LAW,468,"Ethics and Professionalism",184,73.342391304
+EPSE,406,"Typical and Atypical Development in Infants and Children",184,91.364130435
+CPSC,344,"Introduction to Human Computer Interaction Methods",184,83.961956522
+PHIL,347,"Philosophy of Religion",184,75.673913043
+CPSC,259,"Data Structures and Algorithms for Electrical Engineers",183,75.721311475
+MATH,210,"Introduction to Mathematical Computing",182,70.450549451
+ASTR,333,"Exoplanets and Astrobiology",182,77.56043956
+COMM,120,"Business Immersion",182,75.78021978
+EOSC,210,"Earth Science for Engineers",182,68.098901099
+PSYC,413,"Social and Personality Development",182,77.703296703
+EOSC,326,"Earth and Life Through Time",181,76.093922652
+BUSI,370,"Business Finance",181,73.38121547
+CHBE,370,"Fundamentals of Sustainable Engineering",180,76.894444444
+MICB,306,"Molecular Virology",180,78.327777778
+KIN,442,"Planning Physical Education, Sport and Exercise Programs",180,88.272222222
+BAAC,551,"Foundations in Accounting II",180,82.116666667
+ECON,370,"Benefit-Cost Analysis and the Economics of Project Evaluation",180,66.872222222
+LAW,300,"Jurisprudence and Critical Perspectives",179,73.625698324
+LAW,221,"Criminal Law and Procedure",178,75.140449438
+SPAN,202,"Elementary Spanish II",178,69.342696629
+BUSI,353,"Intermediate Financial Accounting I",177,74.627118644
+BUSI,354,"Cost Accounting",177,72.259887006
+BUSI,450,"Intermediate Financial Accounting II",177,73.310734463
+MATH,110,"Differential Calculus",176,60.994318182
+CIVL,315,"Fluid Mechanics II",175,74.788571429
+MECH,325,"Machine Design",174,77.764367816
+LAW,291,"Aboriginal and Treaty Rights",174,74.551724138
+LAW,231,"Property Law",174,75.218390805
+HIST,102,"World History from 1500 to the Twentieth Century",174,75.511494253
+FRST,201,"Forest Ecology",174,80.58045977
+FRST,200,"Forest Plant Biology I",174,72.954022989
+CIVL,409,"Municipal Engineering",173,80.479768786
+LAW,261,"Transnational Law",172,74.843023256
+LAW,211,Contracts,172,74.976744186
+ASTR,311,"Exploring the Universe: Stars and Galaxies",172,71.98255814
+COMM,455,"Principles of Auditing",172,74.290697674
+CONS,210,"Visualizing Climate Change",172,82.73255814
+PSYC,336,"The Psychology of Language I",172,73.872093023
+POLI,321,"Chinese Politics and Development",171,76.49122807
+SOCI,371,"Classical Traditions in Theory",171,72.415204678
+ELEC,301,"Electronic Circuits",171,71.555555556
+COMM,414,"Data Visualization and Business Analytics",171,78.251461988
+DES,230,"Sustainability by Design",170,78.888235294
+LAW,271,"Introduction to Public Law and the Charter",170,73.882352941
+KIN,300,"Human Athletic Performance",170,88.023529412
+COMR,493,"Strategic Management in Business",170,76.7
+PHYS,304,"Introduction to Quantum Mechanics",170,73.352941176
+CHBE,459,"Chemical and Biological Engineering Economics",169,78.366863905
+GERM,304,"German Cinema (in English)",169,78.224852071
+BIOL,364,"Comparative Cardiovascular, Respiratory and Osmoregulatory Physiology",169,78.461538462
+LLED,201,"Critical Reading and Writing in Academic and Professional Registers",168,71.214285714
+EPSE,403,"Education of Students with Developmental Disabilities in Inclusive Settings",168,93.732142857
+ECON,325,"Introduction to Empirical Economics",168,70.785714286
+VANT,140,"Content and Language Enrichment Tutorials",168,77.982142857
+SOCI,352,"Organization of Work",167,79.670658683
+PHIL,332,"Environmental Ethics",166,74.409638554
+ADHE,329,"Developing Short Courses, Workshops and Seminars",166,83.602409639
+ELEC,202,"Circuit Analysis II",166,66.626506024
+BAPA,550,"Managerial Economics I",166,82.307228916
+CONS,340,"Introduction to Geographic Information Systems for Forestry and Conservation",166,79.530120482
+ELEC,211,"Engineering Electromagnetics",165,63.848484848
+LAW,241,Torts,165,74.581818182
+FRST,386,"Aquatic Ecosystems and Fish in Forested Watersheds",165,76.557575758
+BABS,550,"Application of Statistics in Management",165,87.545454545
+POLI,370,"Issues in International Conflict Management",165,86.036363636
+SOCI,320,"Diversity in Family Forms",165,75.987878788
+ADHE,327,"Teaching Adults",164,81.920731707
+FRST,395,"Forest Wildlife Ecology and Management",164,79.152439024
+COMM,355,"Income Taxation",164,72.719512195
+BUSI,453,"Advanced Financial Accounting",164,69.152439024
+MECH,375,"Heat Transfer",163,73.36809816
+ELEC,291,"Electrical Engineering Design Studio I",163,79.226993865
+CPEN,312,"Digital Systems and Microcomputers",163,79.63803681
+ECON,226,"Making Sense of Economic Data",163,73.343558282
+SOCI,415,"Theories of Family and Kinship",163,85.736196319
+POLI,220,"Introduction to Comparative Politics",162,77.333333333
+BUSI,393,"Introduction to Business Law",162,66.277777778
+MATH,300,"Introduction to Complex Variables",161,68.888198758
+COMM,321,"Organizational Behaviour",161,80.763975155
+COMM,337,"Business Programming and Analytics",161,75.465838509
+FNH,370,"Nutrition Assessment",161,76.571428571
+BUSI,330,"Foundations of Real Estate Appraisal",161,71.173913043
+ECON,234,"Wealth and Poverty of Nations",161,78.931677019
+SOCI,328,"Social Statistics I",161,68.285714286
+PHYS,301,"Electricity and Magnetism",160,72.63125
+CIVL,340,"Transportation Engineering I",160,76.425
+BIOC,301,"Biochemistry Laboratory",160,81.99375
+GEOG,350,"Urban Worlds",159,74.86163522
+CPEN,311,"Digital Systems Design",159,82.974842767
+PSYC,325,"Socialization: Media Content and Effects",159,77.968553459
+PSYC,335,"Gambling and Decision Making",158,79.974683544
+SOCI,312,"Gender Relations",158,74.867088608
+STAT,443,"Time Series and Forecasting",157,77.280254777
+MECH,463,"Mechanical Vibrations",156,75.762820513
+CIVL,403,"Engineering Economic Analysis",156,78.192307692
+CHBE,230,"Computational Methods",156,60.230769231
+CIVL,311,"Soil Mechanics II",155,68.980645161
+COMM,436,"Information Systems Analysis and Design",155,76.709677419
+CPSC,427,"Video Game Programming",155,87.916129032
+ADHE,412,"An Overview of Adult Education",154,73.525974026
+ANTH,220,"First Nations of British Columbia",154,81.207792208
+CHEM,208,"Coordination Chemistry",154,72.837662338
+APPP,503,"Organizational Leadership",154,81.551948052
+ELEC,344,"Applied Electronics and Electromechanics",153,77.130718954
+CHEM,111,"Structure, Bonding, and Equilibrium in Chemistry",153,69.215686275
+ARCL,203,"Archaeological Methods",153,80.235294118
+CIVL,230,"Solid Mechanics",153,75.006535948
+ASIA,254,"Sex, Gender, and Sexuality in Japanese Literature and Film",153,74.901960784
+FRST,443,"Remote Sensing for Ecosystem Management",153,83.91503268
+FNH,403,"Food Laws, Regulations and Quality Assurance",153,88.725490196
+FRST,210,"Forest Plant Biology II",152,72.105263158
+PHIL,340,"Introduction to Metaphysics",152,71.138157895
+VISA,183,"Foundation Studio: Ideas as Practice I",151,75.794701987
+CHBE,352,"Transport Phenomena II",151,68.490066225
+ADHE,330,"The Community Practice of Adult Education",151,82.278145695
+DSCI,513,"Databases and Data Retrieval",151,89.609271523
+BUSI,295,"Managerial Economics",151,75.264900662
+DSCI,573,"Feature and Model Selection",151,91.291390728
+DSCI,561,"Regression I",151,94.185430464
+DSCI,531,"Data Visualization I",150,93.526666667
+DSCI,512,"Algorithms and Data Structures",150,92.053333333
+ELEC,311,"Electromagnetic Fields and Waves",150,76.313333333
+CIVL,331,"Steel and Timber Design",150,73.42
+COMR,398,"Introduction to Business Processes and Operations",150,76.626666667
+DSCI,571,"Supervised Learning I",150,89.66
+DSCI,552,"Statistical Inference and Computation I",150,92.513333333
+DSCI,551,"Descriptive Statistics and Probability for Data Science",150,91.68
+DSCI,523,"Programming for Data Manipulation",149,93.798657718
+DSCI,521,"Computing Platforms for Data Science",149,94.187919463
+DSCI,511,"Programming for Data Science",149,91.939597315
+COMM,320,"Foundations in Accounting I",149,73.040268456
+ENGL,348,Shakespeare,148,78.060810811
+DSCI,572,"Supervised Learning II",148,90.621621622
+DSCI,563,"Unsupervised Learning",148,93.547297297
+LING,200,"Linguistic Theory and Analysis I",147,81.217687075
+JAPN,200,"Beginning Japanese II A",147,73.482993197
+BA,560,"Ethics and Sustainability",147,80.414965986
+PHYS,200,"Relativity and Quanta",147,69.537414966
+PSYC,319,"Applied Developmental Psychology",146,77.773972603
+SOCI,230,"Shopping, Society, and Sustainability",146,75.910958904
+ANTH,206,"Witches, Vampires, and Zombies: Anthropology of the Supernatural",146,80.04109589
+APBI,314,"Animals and Society",146,81.219178082
+ARCL,103,"Introduction to Archaeology",146,68.52739726
+LAW,459,"Business Organizations",146,73.184931507
+EDUC,500,"Research Methodology in Education",146,89.657534247
+ELEC,342,"Electro-Mechanical Energy Conversion and Transmission",145,68.544827586
+STAT,404,"Design and Analysis of Experiments",145,80.296551724
+RELG,101,"Jewish, Christian, and Muslim Religious Traditions",144,74.298611111
+SOCI,220,"Sociology of Indigenous Peoples",144,88.708333333
+SOCI,302,"Ethnic and Racial Inequality",144,75.8125
+STAT,201,"Statistical Inference for Data Science",144,86.777777778
+BAMA,505,"Business Development",144,83.104166667
+BUSI,455,"Principles of Auditing",144,75.555555556
+ANTH,202,"Contemporary Social Problems",143,79.468531469
+LAW,372,"Administrative Law",143,73.888111888
+KIN,335,"Advanced Applications of Exercise Physiology",143,82.321678322
+CAPS,390,"Introduction to Microscopic Human Anatomy",143,71.937062937
+POLI,379,"China in World Politics",143,72.944055944
+SOCI,384,"Sociology of Health and Illness",143,74.286713287
+ADHE,328,"Institutions of Adult Education",142,84.063380282
+CIVL,300,"Construction Engineering and Management",142,80.647887324
+BASC,500,"Process Fundamentals",142,83.718309859
+COMR,100,"Introduction to Business",142,73.816901408
+MECH,466,"Automatic Control",141,78.780141844
+CHEM,315,"Chemistry Integrated Laboratory I",141,77.354609929
+ELEC,331,"Computer Communications",141,70.794326241
+PSYC,462,"Drugs and Behavioural Neuroscience",141,72.730496454
+POLI,366,"International Political Economy",140,71.607142857
+PSYC,333,"Memory: Historical, Clinical and Cognitive Perspectives",140,64.7
+CHBE,356,"Process Dynamics and Control",140,71.285714286
+CRWR,302,"Writing for Podcast",140,81.192857143
+APSC,261,"Technology and Society I",140,78.964285714
+ARCL,140,"Bones: The Origins of Humanity",140,72.721428571
+LATN,101,"Beginning Latin I",140,80.871428571
+CONS,330,"Conservation Science and Sustainability",140,78.642857143
+ASTR,102,"Introduction to Stars and Galaxies",139,80.870503597
+EOSC,478,"Introduction to Fisheries Science",139,84.942446043
+MATH,312,"Introduction to Number Theory",138,81.115942029
+ELEC,281,"Technical Communication",138,71.173913043
+LAW,469,"Civil Procedure",138,73.275362319
+FRST,318,"Forest and Conservation Economics",138,80.615942029
+COMM,438,"Management of Information Systems",138,75.028985507
+BIOL,363,"Laboratory in Animal Physiology",138,78.572463768
+ECON,323,"Quantitative Economic Modelling with Data Science Applications",138,83.775362319
+STAT,344,"Sample Surveys",138,75.101449275
+CHEM,304,"Fundamentals of Thermodynamics and Statistical Mechanics",137,78.102189781
+CIVL,430,"Design of Concrete Structures",137,78.408759124
+COMM,420,Marketing,137,81.496350365
+CHBE,485,"Air Pollution Prevention and Control",136,82.125
+ASIA,351,"Modern Chinese Fiction in Translation",136,75.610294118
+COMM,421,"Introductory Finance",136,83.404411765
+COMM,453,"Financial Accounting-Advanced",136,77.411764706
+CHEM,260,"Organic Chemistry for Engineers",135,66.192592593
+MECH,225,"Integration of Engineering Concepts II",135,66.903703704
+GEOG,374,"Statistics in Geography",135,74.133333333
+GEOG,313,"Environmental Justice and Social Change",135,74.785185185
+BAFI,511,"Investment Theory and Asset Pricing",135,83.681481481
+ELEC,315,"Electronic Materials and Devices",133,76.330827068
+LING,201,"Linguistic Theory and Analysis II",133,80.406015038
+BIOL,331,"Developmental Biology",133,78.721804511
+ANTH,210,"Eating Culture",132,73.462121212
+LING,209,"Clinical Topics in Speech, Language, and Hearing Sciences",132,73.287878788
+CIVL,445,"Civil Engineering Design Project I.",132,86.022727273
+CIVL,446,"Civil Engineering Design Project II.",132,88.984848485
+CNPS,427,"Guidance: Planning and Decision-making",132,78.878787879
+BAHR,550,"Organizational Behavior",132,83.090909091
+BAMA,550,Marketing,132,81.825757576
+FREN,401,"Upper-Intermediate French I",132,81.439393939
+EOSC,372,"Introductory Oceanography: Circulation and Plankton",132,72.916666667
+MECH,222,"Engineering Science II",131,68.290076336
+MATH,254,"Multivariable and Vector Calculus for Mechanical Engineering",131,68.290076336
+ELEC,491,"Electrical Engineering Capstone Design Project",131,83.290076336
+GRSJ,102,"Global Issues in Social Justice",130,71.669230769
+COMM,449,"Supply-Chain Management",130,85.184615385
+SOCI,240,"Introduction to Social Interaction",130,76.469230769
+SPPH,502,"Epidemiological Methods 1",130,87.307692308
+CIVL,231,"Structural Mechanics",129,81.821705426
+CIVL,320,"Civil Engineering Materials",128,74.8828125
+CNPS,364,"Family Education and Consultation",128,85.7265625
+EOSC,474,"Marine Pollution",128,77.8203125
+CPEN,223,"Software Design for Engineers",128,80.765625
+CHBE,201,"Integrated Technical Communication",128,73.9765625
+PHIL,240,"Introduction to Epistemology",128,71.0078125
+PHIL,375,"Philosophy and Literature",128,75.4609375
+PHYS,106,"Enriched Physics 1 (lecture)",128,82.0390625
+NURS,300,"Theoretical and Professional Foundations for Nursing Practice",127,84.637795276
+CHEM,250,"Inorganic Chemistry for Engineers",127,65.401574803
+CIVL,201,"Introduction to Civil Engineering",127,82.047244094
+CIVL,301,"Modelling and Decision-Making in Civil Engineering",127,78.598425197
+CIVL,332,"Structural Analysis",127,66.582677165
+COGS,300,"Understanding and Designing Cognitive Systems",127,80.921259843
+CONS,425,"Sustainable Energy: Policy and Governance",127,82.244094488
+CHBE,221,"Founding Principles in Chemical and Biological Engineering II",127,72.976377953
+ASTR,101,"Introduction to the Solar System",126,78.134920635
+FRST,232,"Computer Applications in Forestry",126,83.333333333
+CPEN,331,"Operating Systems",126,86.642857143
+CHBE,345,"Unit Operations II",126,74.317460317
+NURS,310,"Basic Principles of Pharmacology for Nursing Practice",126,82.603174603
+NURS,330,"Theoretical Perspectives in Nursing: Adults/Older Adults and their Families",126,89.563492063
+NURS,350,"Critical Inquiry and Research in Health Care Practice",126,90.595238095
+NURS,352,"Relational and Ethical Nursing Practice",126,86.420634921
+MECH,224,"Integration of Engineering Concepts I",124,73.379032258
+ELEC,204,"Linear Circuits",124,95.677419355
+LAW,347,Federalism,124,74.709677419
+KIN,432,"Sport Nutrition",124,81.35483871
+KIN,321,"Chronic Health Issues and Physical Activity",124,77.572580645
+CHBE,220,"Founding Principles in Chemical and Biological Engineering I",124,75.669354839
+MECH,223,"Introduction to the Mechanical Design Process",123,73.178861789
+BMEG,230,"Biomechanics I",123,81.674796748
+APSC,262,"Technology and Society II",122,83.426229508
+MECH,221,"Engineering Science I",122,74.762295082
+MATH,258,"Differential Equations for Mechanical Engineering",122,74.754098361
+COGS,303,"Research Methods in Cognitive Systems",122,79.43442623
+BIOC,203,"Fundamentals of Biochemistry",122,72.245901639
+CPSC,107,"Systematic Program Design",122,71.278688525
+NURS,301,"Theoretical Perspectives in Nursing: Primary Health Care",122,87.221311475
+PSYC,358,"Evolutionary Psychology",122,73.106557377
+NURS,303,"Theoretical Perspectives in Nursing: People Living with Mental Health Challenges and Their Families",121,89.314049587
+NURS,345,"Theoretical Perspectives in Nursing: Childbearing Individuals and their Families",121,87.099173554
+PHIL,451,"Philosophy of Mind",121,75.603305785
+CHBE,355,"Kinetics and Reactor Design",121,75.776859504
+CHBE,376,"Computer Flowsheeting and Unit Operation Design",121,77.016528926
+MICB,301,"Microbial Ecophysiology",121,75.297520661
+CIVL,203,"Technical Communication in Civil Engineering",121,81.438016529
+COEC,293,"Financial Accounting",121,76.454545455
+FRST,211,"Forest Classification and Silvics",121,81.148760331
+BIOC,402,"Proteins: Structure and Function",121,74.082644628
+BMEG,220,"Circuits and Electromagnetics with Application to Biomedical Engineering",121,76.578512397
+MECH,328,"Mechanical Engineering Design Project",120,79.55
+CIVL,303,"Computational Tools in Civil Engineering",120,84.033333333
+ECON,221,"Introduction to Strategic Thinking",120,66.758333333
+CHBE,263,"Introduction to Chemical and Biological Engineering Laboratory Practice",120,85.508333333
+NURS,346,"Theoretical Perspectives in Nursing: Infants, Children, Youth and their Families",120,88.908333333
+PHIL,338,"Philosophy of Law",120,72.425
+PHIL,385,Existentialism,119,76.890756303
+CHEM,115,"Introductory Chemical Laboratory I",119,79.151260504
+MECH,220,"Technical Skills Practicum",119,81.655462185
+CONS,481,"Conservation Planning in Practice",119,87.571428571
+BMEG,245,"The Fundamental Units of Life: From Cells To Systems",119,78.159663866
+CHBE,264,"Chemical and Biological Engineering Laboratory",119,81.462184874
+CRWR,311,"Intermediate Writing for Lyric Forms",118,80.076271186
+ASIA,250,"Introduction to Buddhism",118,80.372881356
+FRST,385,"Watershed Hydrology",118,68.601694915
+CPEN,291,"Computer Engineering Design Studio I",118,85.152542373
+CPEN,322,"Software Construction II",118,75.991525424
+BMEG,210,"Thermodynamics in Biomedical Engineering",118,75.677966102
+ECON,442,"Issues in Economic Development",118,78.5
+BUSI,400,"Residential Property Analysis",118,79
+ENGL,490,"Literature Majors Seminar",117,80.982905983
+MUSC,154,"University Choral Union",117,89.700854701
+STAT,406,"Methods for Statistical Learning",117,80.88034188
+NURS,353,"Promoting the Health of Indigenous People",116,91.206896552
+SOCI,224,"Sociology of Personal Life",116,77.568965517
+SPPH,400,"Statistics for Health Research",116,82.810344828
+ANTH,227,"Introduction to Medical Anthropology",116,76.137931034
+DSCI,522,"Data Science Workflows",116,95.922413793
+CHEM,301,"Aqueous Environmental Chemistry",116,76.982758621
+ASIA,311,"Tibetan Buddhism",116,76.948275862
+ASIA,320,"History of Early China",116,78.310344828
+KIN,435,"Pulmonary Physiology of Exercise",116,78.068965517
+ENGL,229,"Topics in the Study of Language and/or Rhetoric",116,79.129310345
+BALA,503,"Commercial Law",116,82.560344828
+CPSC,410,"Advanced Software Engineering",116,81.724137931
+BUSI,291,"Application of Statistics in Business",115,71.165217391
+CHBE,346,"Chemical and Biological Engineering Thermodynamics II",115,76.747826087
+GEOG,314,"Analysing Environmental Problems",115,77.234782609
+FREN,302,"Intermediate French II",115,82.530434783
+ELEC,481,"Economic Analysis of Engineering Projects",115,71.669565217
+BMEG,250,"Cellular  Physiology  and Biophysics",115,81.495652174
+NURS,430,"Theoretical Perspectives in Nursing: Special Topics in Complex and Urgent Health Challenges across Settings/Populations",115,92.495652174
+WOOD,225,"Communications Strategies",114,74.649122807
+DSCI,542,"Communication and Argumentation",114,95.587719298
+DSCI,541,"Privacy, Ethics, and Security",114,92.763157895
+DSCI,532,"Data Visualization II",114,96.824561404
+DSCI,525,"Web and Cloud Computing",114,98.350877193
+DSCI,524,"Collaborative Software Development",114,97.473684211
+APPP,502,"Sustainability and Leadership",114,81.087719298
+ARTH,101,"Ways of Seeing: Introduction to Visual Studies",114,79.315789474
+BIOC,303,"Molecular Biochemistry",114,73.51754386
+ENGL,372,"Canadian Literature",114,76.833333333
+DSCI,575,"Advanced Machine Learning",114,94.184210526
+DSCI,574,"Spatial and Temporal Models",114,93.666666667
+DSCI,562,"Regression II",114,95.868421053
+DSCI,553,"Statistical Inference and Computation II",114,96.605263158
+CHBE,456,"Heterogenous Catalysis and Advanced Reactor Design",113,78.743362832
+KIN,316,"Biomechanical Properties of Tissues",113,74.539823009
+GRSJ,224,"Gender, Race, Sexuality, and Social Justice in Literature",113,64.469026549
+COMM,437,"Database Technology",113,80.203539823
+COMM,475,"Investment Policy",113,79.14159292
+BMEG,257,"Biomedical Engineering Design I",113,86.407079646
+CPSC,312,"Functional and Logic Programming",113,81.973451327
+PSYC,421,"Environmental Psychology",113,79.150442478
+CHEM,313,"Advanced Organic Chemistry for the Life Sciences",112,62.5
+CPEN,281,"Technical Communication",112,71.651785714
+BMEG,101,"Introduction to Biomedical Engineering",112,83.071428571
+CPSC,430,"Computers and Society",112,80.044642857
+CRWR,309,"Intermediate Writing Fiction",111,77.171171171
+MICB,308,"Paradigms in Bacterial Pathogenesis",111,75.207207207
+MECH,368,"Engineering Measurements and Instrumentation",111,71.054054054
+KIN,140,"Lifespan Motor Development",111,78.342342342
+BA,511,"Community Business Project",111,83.405405405
+MICB,325,"Analysis of Microbial Genes and Genomes",111,78.126126126
+CPSC,416,"Distributed Systems",111,90
+STAT,203,"Statistical Methods",111,74.027027027
+MTRL,280,"Materials in Design",110,68.790909091
+PHIL,330,"Social and Political Philosophy",110,76.218181818
+CHIN,133,"Basic Chinese I: Part 2 (Non-Heritage)",110,76.663636364
+GEOS,372,Cartography,110,75.027272727
+GEOS,370,"Advanced Geographic Information Science",110,73.690909091
+BMEG,102,"Biomedical Engineering Lab",110,83.318181818
+BMEG,201,"Technical Communication for Biomedical Engineers",110,84.345454545
+CHBE,362,"Process Engineering Laboratory",109,89.183486239
+MECH,226,"Technical Communication for Mechanical Engineers",109,77.027522936
+BIOL,209,"Biodiversity of Algae, Fungi and Bryophytes",109,79.321100917
+ARTH,102,"Crisis and Contradiction in Art and the Built Environment",108,70.194444444
+ASIA,319,"Contemporary Chinese Popular Cultures",108,80.185185185
+BA,564,"Leadership Development",108,82.814814815
+BA,580,"Topics in Business Administration",108,83.888888889
+CHBE,464,"Chemical and Biological Engineering Laboratory",107,86.757009346
+BAPA,560,"Foundations of Managerial and Business Economics",107,82.252336449
+PHIL,321,"Induction, Decision and Game Theory",107,74.448598131
+PHYS,403,"Statistical Mechanics",107,73.560747664
+STAT,545,"Exploratory Data Analysis",107,95.074766355
+WRDS,350,"Knowledge-Making in the Disciplines",106,72.490566038
+ASTU,101,"Writing for Research in the Social Sciences and the Humanities",106,68.339622642
+GERM,110,"Beginners' German II",106,77.679245283
+BMEG,357,"Biomedical  Engineering Design II",106,81.018867925
+ANTH,378,"Anthropology of Media",105,73.771428571
+CHEM,341,"Global Challenges: A Chemical Perspective",105,74.619047619
+ASIA,314,"Premodern Japan",105,67.20952381
+ETEC,512,"Applications of Learning Theories to the Analysis of Instructional Settings",105,87.123809524
+BMEG,350,"Human Structure/Function from Cells to Systems",105,74.314285714
+ELEC,401,"Analog CMOS Integrated Circuit Design",104,92.865384615
+DES,200,"Design Thinking",104,78.019230769
+DES,130,"Design, Culture and Ecology",104,80.192307692
+LAW,476,Evidence,104,73.288461538
+ETEC,510,"Design of Technology- Supported Learning Environments",104,94.057692308
+ECON,441,"The Process of Economic Development",104,77.576923077
+MUSC,119,"Introduction to Music Technology",104,72.826923077
+PCTH,201,"Drugs and Society",104,79.971153846
+SCIE,300,"Communicating Science",104,82.355769231
+MECH,380,"Fluid Dynamics",103,73.009708738
+CHEM,335,"Chemistry Integrated Laboratory II",103,82.029126214
+CNRS,104,"Temples, Tombs, and Tyrants: The Archaeology of the Middle East, Greece, and Rome",103,76.961165049
+GEOG,250,Cities,103,76.582524272
+BMEG,321,"Biomedical Instrumentation",103,87.650485437
+AFST,250,"Introduction to African Studies",102,78.5
+ELEC,391,"Electrical Engineering Design Studio II",102,74.754901961
+LING,311,"Studies in Phonology",102,70.558823529
+HIST,432,"International Relations in the Twentieth Century",102,76.62745098
+BMEG,371,"Transport Phenomena within Cells and Tissues",102,75.37254902
+CPEN,391,"Computer Engineering Design Studio II",102,85.441176471
+BUSI,493,"Strategic Management in Business",102,75.862745098
+PHTH,565,"Clinical Practice VIb",102,82.156862745
+POLI,370,"Issues in International Conflict Management",102,84.323529412
+THTR,130,"Introduction to Stage Acting",102,84.450980392
+PHIL,100,"Introduction to Philosophy",101,73.782178218
+PHTH,531,"Pathology for Physical Therapy III",101,85.485148515
+PHTH,544,"Clinical Practice IVa",101,89.356435644
+PHTH,545,"Clinical Practice IVb",101,83.108910891
+PSYC,361,"Neuroscience of Motivation",101,72.465346535
+VISA,210,"Digital Arts",101,79.079207921
+ASIA,110,"Introduction to Religions in Asia",101,66.336633663
+ASIA,305,"Asian Horror Cinema: National Nightmares and Specters of Trauma",101,76.613861386
+GRSJ,224,"Gender, Race, Sexuality, and Social Justice in Literature",101,77.930693069
+GEOG,311,"Urban Environments",101,77.900990099
+BA,504,"Business Strategy Integration: Foundation",101,82.415841584
+BAEN,540,"Strategy & Innovation",101,82.316831683
+COMM,439,"Business Telecommunications",101,78.554455446
+CPSC,302,"Numerical Computation for Algebraic Problems",101,78.386138614
+ANAT,392,"Gross Anatomy of the Limbs and Trunk",100,84.22
+COMM,464,"Digital Marketing",100,86.32
+BUSI,401,"Commercial Property Analysis",100,71.13
+ECED,401,"Supporting Young Children's Health and Well-Being in Early Childhood Settings",100,84.83
+PHTH,511,"Pathology for Physical Therapy I",100,89.23
+PHTH,514,"Clinical Practice I",100,83.22
+PHTH,516,"Clinical Decision-Making I",100,96.05
+PHTH,517,"Exercise and Movement I",100,88.2
+POLI,369,"Issues in International Security",100,79.5
+POLI,369,"Issues in International Security",100,84.98
+PSYC,278,"Analysis of Behavioural and Neuroscientific Data",100,79.96
+RELG,201,"Near Eastern and Biblical Mythology",100,75.59
+MTRL,264,"Transport Phenomena II - Heat Transport",99,73.666666667
+PHTH,521,"Pathology for Physical Therapy II",99,90.919191919
+PHTH,526,"Clinical Decision Making II",99,92.888888889
+PHTH,527,"Exercise and Movement II",99,88.666666667
+PHTH,528,"Case-based Integration",99,89.171717172
+POLI,320,"Government and Politics of the United States of America",99,77.96969697
+PSYC,270,"Introduction to Behavioural Neuroscience",99,79.868686869
+PSYC,277,"Behavioural and Neuroscientific Research Methods",99,78.737373737
+RHSC,420,"Elements of Neuroanatomy and Neurophysiology",99,88.171717172
+ANTH,213,"Sex, Gender, and Culture",99,71.262626263
+MECH,392,"Manufacturing Processes",99,71.646464646
+KIN,364,"The Modern Olympics: Power, Politics, and Performance",99,83.595959596
+HIST,235,"History of Canada: Moments that Matter",99,74.646464646
+HIST,104,"Topics in World History",99,75.747474747
+GEOG,352,"Urbanization in the Global South",99,76.303030303
+FNH,398,"Research Methods in Human Nutrition",99,77.787878788
+BIOC,410,"Nucleic Acids-Structure and Function",99,71.505050505
+FIST,300,"Cult Cinema",99,85.747474747
+BIOL,370,"Principles of Muscle Physiology and Energetics",99,84.616161616
+BMEG,310,"Introduction to Bioinformatics",99,78.98989899
+ECON,327,"Introduction to Empirical Methods",99,81.737373737
+COGS,401,"Seminar in Cognitive Systems",98,80.326530612
+BASM,502,"Corporate Strategy",98,82.06122449
+FMST,238,"Family Resource Management",98,75.214285714
+CPEN,491,"Computer Engineering Capstone Design Project",98,83.683673469
+ECON,315,"Intermediate Microeconomics I",98,69.224489796
+SPPH,381,"Selected Topics",98,91.397959184
+THTR,210,"Drama: Forms and Ideas I",98,78.081632653
+POLI,370,"Issues in International Conflict Management",97,77.690721649
+PSYC,370,"Behavioural Neuroscience I",97,83.288659794
+SOWK,200,"Introduction to Social Welfare",97,77.515463918
+LIBR,507,"Methods of Research and Evaluation in Information Organizations",97,84.577319588
+GEOG,312,"Climate Change: Science and Society",97,74.804123711
+BIOL,306,"Advanced Ecology",97,74.762886598
+ECON,328,"Methods of Empirical Research",97,69.298969072
+ECON,309,"Intermediate Open Economy Macroeconomics",97,82.412371134
+MATH,318,"Probability with Physical Applications",96,73.25
+LING,313,"Introduction to Linguistic Phonetics and Speech Science",96,79.479166667
+LING,222,"Language Acquisition",96,75.885416667
+HIST,391,"Human Rights in World History",96,77.958333333
+HIST,105,"Contemporary Global Issues in Historical Perspective",96,76.697916667
+GRSJ,224,"Gender, Race, Sexuality, and Social Justice in Literature",96,78.447916667
+ECON,351,"Women in the Economy",96,76.0625
+MTRL,263,"Transport Phenomena I - Fluid Mechanics",96,73.59375
+MUSC,323,"History of Popular Music",96,84.9375
+PHIL,250,"Minds and Machines",96,73.083333333
+RELG,203,"Scriptures of the Near East",96,75.572916667
+UFOR,100,"Greening the City",96,79.520833333
+POLI,344,"Social and Political Thought",95,75.568421053
+SOCI,387,"Drugs and Society",95,75.810526316
+STAT,321,"Stochastic Signals and Systems",95,68.705263158
+MATH,400,"Applied Partial Differential Equations",95,69.378947368
+ARTS,1,"Arts One",95,77.052631579
+LIBR,506,"Human-Information Interaction",95,85.526315789
+JAPN,201,"Beginning Japanese II B",95,73.747368421
+GEOG,319,"Environmental Impact Assessment",95,74.242105263
+ECED,400,"Introduction to Early Childhood Education and Care",95,79.621052632
+ELEC,341,"Systems and Control",94,70.425531915
+LIBR,509,"Foundations of Resource Description and Knowledge Organization",94,82.085106383
+ATSC,201,"Meteorology of Storms",94,80.521276596
+ETEC,500,"Research Methodology in Education",94,87.510638298
+MICB,401,"Environmental Microbiology Laboratory",94,93.340425532
+NURS,290,"Health Impacts of Climate Change",94,85.946808511
+PHYS,219,"Intermediate Experimental Physics I",94,80.776595745
+PLAN,221,"City Visuals",94,81
+POLI,372,"Multinational Corporations and Globalization",94,76.510638298
+PSYC,368,"Perceptual Processing",94,71.808510638
+SPPH,500,"Analytical Methods in Epidemiological Research",94,83.404255319
+MTRL,340,"Manufacturing in Materials Engineering",93,64.860215054
+PSYC,371,"Behavioural Neuroscience II",93,83.365591398
+SPPH,300,"Working in International Health",93,85.677419355
+SPPH,301,"Understanding the Sociocultural Determinants of the Health of Populations",93,86.677419355
+URST,200,Cities,93,73.548387097
+MECH,358,"Engineering Analysis",93,67.35483871
+LIBR,508,"Information Practices in Contemporary Society",93,88.096774194
+ASIA,367,"Contemporary Korean Culture",93,75.591397849
+KIN,311,"Sensorimotor Control of Human Movement",93,71.52688172
+BAFI,500,"Introductory Finance",93,83.731182796
+FREN,402,"Upper-Intermediate French II",93,81.666666667
+EOSC,211,"Computer Methods in Earth, Ocean and Atmospheric Sciences",93,77.817204301
+ECON,456,"International Macroeconomics and Finance",93,77.731182796
+ANTH,205,"The Anthropology of Insurrections and Revolution",92,71.967391304
+DES,110,"Measured Architectural Drawing",92,80.880434783
+GEOG,327,"Creating Canada",92,73.25
+ENVR,200,"Introduction to Environmental Science",92,78.27173913
+ECON,494,"Seminar in Applied International Economics",92,83.456521739
+ECON,316,"Intermediate Microeconomics II",92,80.489130435
+ITAL,102,"Beginners' Italian II",91,76.879120879
+FRST,307,"Biotic Disturbances",91,76.197802198
+COMM,377,"International Financial Markets and Institutions",91,77.549450549
+CONS,370,"Aboriginal Forestry",91,80.32967033
+CPSC,422,"Intelligent Systems",91,74.241758242
+POLI,308,"Issues in Canadian Politics",91,76.879120879
+SPPH,302,"Topics in Health Informatics for Health/Life Sciences Students",91,85.912087912
+POLI,302,"Public Administration",90,73.577777778
+POLI,328,"Topics in Comparative Politics",90,77.222222222
+SOCI,370,"Sociological Theories: Classical and Contemporary Approaches",90,66.577777778
+VISA,241,"Digital Photography",90,81.322222222
+KIN,363,"Leisure, Sport and Popular Culture",90,82.288888889
+BIOC,304,"Contemporary Biochemical Research",90,80.011111111
+ECON,493,"Advanced Empirical Methods for International Economics",90,76.033333333
+CPSC,319,"Software Engineering Project",90,87.766666667
+CRWR,312,"Interactive Storytelling",89,78.887640449
+BIOL,458,"Developmental Neurobiology",89,80.112359551
+PATH,375,"Introduction to Human Pathology",89,84.606741573
+PHIL,313,"Medieval Philosophy",89,78.426966292
+PHYS,229,"Intermediate Experimental Physics II",89,82.359550562
+POLI,334,"Comparative Democratization",89,74.741573034
+SOCI,342,"Consumers and Consumption",88,74.647727273
+STAT,545,"Exploratory Data Analysis",88,95.75
+CRWR,306,"Intermediate Writing for the Screen",88,78.954545455
+ASL,100,"American Sign Language and Deaf Culture I",88,82.409090909
+CPEN,400,"Topics in Computer Engineering",88,86.090909091
+CPSC,303,"Numerical Approximation and Discretization",88,68.943181818
+CPSC,311,"Definition of Programming Languages",88,80.863636364
+MECH,305,"Data Analysis and Mechanical Engineering Laboratories",87,70.551724138
+KORN,102,"Basic Korean",87,72.942528736
+ASTU,204,"Topics in Interdisciplinary Arts Studies",87,68.586206897
+BIOL,210,"Vascular Plants",87,72.413793103
+ECON,485,"Political Economy",87,76.67816092
+ECON,367,"Economic Analysis of Law",87,81.068965517
+CENS,303,"Representations of the Holocaust (in English)",87,80.908045977
+SOCI,360,"Sociology and Natural Resources",87,81.137931034
+MICB,447,"Experimental Molecular Biology",86,88.965116279
+MUSC,156,"Vocal Chamber Ensembles",86,93.686046512
+SOCI,380,"Sociological Methods: Survey Research",86,90.418604651
+SOCI,382,"Sociological Methods: Qualitative Research",86,75.38372093
+UFOR,402,"Urban Forestry Administration, Policy and Law",86,79.38372093
+MATH,217,"Multivariable and Vector Calculus",86,73.034883721
+HIST,220,"History of Europe",86,73.581395349
+BAEN,505,"Entrepreneurial Finance",86,79.953488372
+LAW,455,"Real Estate Transactions",85,73.611764706
+LAW,451,Trusts,85,72.094117647
+LAW,359,"Family Law",85,71.117647059
+ENGL,245,"Comics and Graphic Media",85,75.458823529
+GEOG,329,"Political Geography",85,72.141176471
+COMM,471,"Mergers and Acquisitions",85,83.211764706
+PHYS,203,"Thermal Physics I",85,68.529411765
+PHYS,216,"Intermediate Mechanics",85,70.788235294
+PHYS,408,Optics,85,67.705882353
+PSYC,404,"Psychology of Religion",85,77.682352941
+VANT,140,"Content and Language Enrichment Tutorials",85,71.776470588
+WRDS,150,"Writing and Research in the Disciplines",85,68.670588235
+POLI,367,"International Relations Theory and the International System",84,74.476190476
+MICB,322,"Molecular Microbiology Laboratory",84,84.261904762
+FNH,415,"Business Concepts in Food, Nutrition, and Health",84,83.654761905
+COMM,467,"Brand Management",84,80.738095238
+COMM,470,"Venture Capital",84,80.452380952
+CHEM,100,"Foundations of Chemistry",83,64.686746988
+APBI,490,"Advanced Topics in Applied Biology",83,90.891566265
+CHIN,493,"Classical Chinese II (Heritage)",83,78.168674699
+LING,170,"Introduction to How to Learn a Language",83,77.662650602
+COMM,336,"Introduction to Digital Business",83,78.445783133
+COMM,443,"Service Operations",83,83.445783133
+COMM,452,"Taxes and Decision Making",83,77.554216867
+POLI,360,"Security Studies",83,67.819277108
+RUSS,101,"Basic Russian I",82,86.573170732
+SOCI,372,"Contemporary Directions in Theory",82,73.512195122
+JRNL,100,"New Media and Society",82,82.195121951
+GRSJ,224,"Gender, Race, Sexuality, and Social Justice in Literature",82,88.097560976
+FRST,320,"Abiotic Disturbances: Fire and Climate",82,81.62195122
+FREN,311,"Introduction to Literature in French",82,81.085365854
+ECON,384,"Economic Analysis of Health Services",82,75.695121951
+CPSC,203,"Programming, Problem Solving, and Algorithms",82,88.073170732
+CHBE,366,"Chemical Engineering Laboratory",81,82.012345679
+GEOG,357,"Society, Culture & Space",81,74.75308642
+COMM,307,"Real Estate Investment",81,76.345679012
+PHYS,401,"Electromagnetic Theory",81,84.654320988
+LAW,463,"Securities Regulation",80,71.7
+CHIN,231,"Basic Chinese II: Part 1 (Non-Heritage)",80,76.0125
+MICB,323,"Molecular Immunology and Virology Laboratory",80,83.3125
+ENGL,243,"Speculative Fiction",80,75.2125
+ECON,390,"Introduction to Economic Research",80,69.9125
+ECON,425,"Introduction to Econometrics",80,74.575
+ENGL,378,"Contemporary Literature",80,76.9
+EOSC,270,"Marine Ecosystems",80,81.75
+ENGL,301,"Technical Writing",80,79.85
+FNH,402,"Functional Foods",80,81.4
+FRST,495,"Biological Diversity and Forest Management",80,80.775
+EOSC,314,"The Ocean Environment",79,68.594936709
+ATSC,313,"Renewable Energy Meteorology",79,77.658227848
+FIST,220,"Hollywood Cinema 1930-1960",79,75.873417722
+COEC,371,"Investment Theory",79,75.632911392
+GEOS,200,"Atmospheric Environments",79,78.215189873
+CHEM,218,"Fundamentals of Reactivity in Inorganic Chemistry",79,66.17721519
+MATH,344,"Mathematical Game Theory",79,76.810126582
+FIST,240,"Media Industries",78,77.064102564
+CHEM,300,"Communicating Chemistry",78,82.91025641
+ECON,471,"Economics of Nonrenewable Resources",78,80.769230769
+MECH,327,"Thermodynamics II",78,74.358974359
+ASIA,392,"Classical Persian Literature in English Translation",78,79.705128205
+ASIA,382,"Buddhism in China",78,80.397435897
+CPEN,212,"Computing Systems II",78,73.08974359
+BIOL,362,"Cellular Physiology",78,81.307692308
+LING,314,"Instrumental Phonetics",78,86.935897436
+MUSC,300,"Compositional and Analytical Approaches to Post-Tonal Music",78,84.705128205
+SOCI,290,"Global Pandemics",77,72.506493506

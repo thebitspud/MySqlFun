@@ -6,5 +6,6 @@ SELECT
     SUM(Cases) as `Cases`,
     SUM(Deaths) as `Deaths`
 FROM covidata
+WHERE Country NOT LIKE "%[b]"
 GROUP BY `Char`
 ORDER BY `Char` ASC;
