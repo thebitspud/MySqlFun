@@ -1,0 +1,1 @@
+SELECT "World" as Country, SUM(Cases) as `Cases`, SUM(Deaths) as `Deaths` FROM covidata;
