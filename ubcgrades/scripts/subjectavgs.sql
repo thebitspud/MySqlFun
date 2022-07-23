@@ -8,4 +8,4 @@ SELECT
 FROM `combined-ubcv-2021`
 WHERE `Section`="Overall"
 GROUP BY `Subject`
-ORDER BY `Subject` ASC;
+ORDER BY `Enrolled` DESC;

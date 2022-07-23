@@ -1,0 +1,321 @@
+Subject,Course,Title,Enrolled,Pass,Fail,"Fail %"
+MATH,104,"Differential Calculus with Applications to Commerce and Social Sciences",1136,849,287,25.2641
+CPSC,110,"Computation, Programs, and Programming",1393,1064,329,23.6181
+MATH,180,"Differential Calculus with Physical Applications",294,225,69,23.4694
+ELEC,201,"Circuit Analysis I",327,251,76,23.2416
+MATH,184,"Differential Calculus for Social Science and Commerce",365,290,75,20.5479
+CPSC,103,"Introduction to Systematic Program Design",960,763,197,20.5208
+MATH,100,"Differential Calculus with Applications to Physical Sciences and Engineering",1665,1354,311,18.6787
+MATH,255,"Ordinary Differential Equations",220,179,41,18.6364
+PHYS,158,"Introductory Physics for Engineers II",879,717,162,18.4300
+KIN,110,"Human Anatomy",238,196,42,17.6471
+CHEM,203,"Introduction to Organic Chemistry",244,201,43,17.6230
+MATH,105,"Integral Calculus with Applications to Commerce and Social Sciences",1006,838,168,16.6998
+STAT,302,"Introduction to Probability",404,338,66,16.3366
+MATH,103,"Integral Calculus with Applications to Life Sciences",763,640,123,16.1206
+MATH,101,"Integral Calculus with Applications to Physical Sciences and Engineering",1405,1188,217,15.4448
+MATH,316,"Elementary Differential Equations II",241,204,37,15.3527
+MATH,200,"Calculus III",1305,1105,200,15.3257
+CPSC,121,"Models of Computation",1067,907,160,14.9953
+MATH,220,"Mathematical Proof",652,563,89,13.6503
+ECON,356,"Introduction to International Finance",440,381,59,13.4091
+CPSC,210,"Software Construction",1175,1018,157,13.3617
+MATH,264,"Vector Calculus for Electrical Engineering",286,248,38,13.2867
+MATH,340,"Introduction to Linear Programming",274,238,36,13.1387
+CHEM,233,"Organic Chemistry for the Biological Sciences",1173,1019,154,13.1287
+MATH,102,"Differential Calculus with Applications to Life Sciences",1060,924,136,12.8302
+ELEC,221,"Signals and Systems",289,252,37,12.8028
+MATH,215,"Elementary Differential Equations I",393,344,49,12.4682
+BIOL,200,"Fundamentals of Cell Biology",1386,1215,171,12.3377
+PHYS,117,"Dynamics and Waves",441,388,53,12.0181
+MECH,260,"Introduction to Mechanics of Materials",283,249,34,12.0141
+CHEM,213,"Organic Chemistry",218,192,26,11.9266
+APBI,200,"Introduction to Soil Science",256,226,30,11.7188
+CIVL,210,"Soil Mechanics I",218,193,25,11.4679
+MECH,360,"Mechanics of Materials",298,264,34,11.4094
+CHEM,121,"Structure and Bonding in Chemistry",1882,1668,214,11.3709
+CAPS,391,"Introduction to Gross Human Anatomy",238,212,26,10.9244
+CLST,301,"The Technical Terms of Medicine and Biological Science",532,474,58,10.9023
+MATH,256,"Differential Equations",735,656,79,10.7483
+MATH,317,"Calculus IV",262,234,28,10.6870
+CPSC,322,"Introduction to Artificial Intelligence",431,386,45,10.4408
+SPAN,201,"Elementary Spanish I",234,210,24,10.2564
+COMR,457,"Fundamentals of Financial Accounting",376,338,38,10.1064
+BIOC,202,"Introductory Medical Biochemistry",430,387,43,10.0000
+BIOL,204,"Vertebrate Structure and Function",297,268,29,9.7643
+COMR,473,"Business Finance",216,195,21,9.7222
+BUSI,293,"Introductory Financial Accounting",227,205,22,9.6916
+MATH,221,"Matrix Algebra",1100,995,105,9.5455
+APSC,160,"Introduction to Computation in Engineering Design",1009,913,96,9.5144
+EOSC,112,"The Fluid Earth: Atmosphere and Ocean",296,268,28,9.4595
+POLI,380,"Quantitative Methods in Political Science",244,221,23,9.4262
+BIOL,335,"Molecular Genetics",268,243,25,9.3284
+PHYS,131,"Energy and Waves (Lecture)",1217,1104,113,9.2851
+PHYS,100,"Introductory Physics",638,579,59,9.2476
+ECON,301,"Intermediate Microeconomic Analysis I",325,295,30,9.2308
+PHYS,170,"Mechanics I",1056,959,97,9.1856
+CPSC,213,"Introduction to Computer Systems",753,686,67,8.8977
+ECON,345,"Money and Banking",519,473,46,8.8632
+PSYC,218,"Analysis of Behavioural Data",856,781,75,8.7617
+BUSI,335,"Information Systems",229,210,19,8.2969
+KIN,132,"Systems Physiology II",244,224,20,8.1967
+CPEN,211,"Introduction to Microcomputers",321,295,26,8.0997
+CHBE,244,"Chemical and Biological Engineering Thermodynamics I",247,227,20,8.0972
+CHEM,205,"Physical Chemistry",414,381,33,7.9710
+WRDS,150A,"Writing and Research in the Disciplines",1746,1607,139,7.9611
+SOCI,310,"Canadian Society",327,301,26,7.9511
+BIOL,155,"Human Biology: Physiology and Introductory Anatomy",519,478,41,7.8998
+ECON,101,"Principles of Microeconomics",2296,2117,179,7.7962
+CPSC,320,"Intermediate Algorithm Design and Analysis",659,609,50,7.5873
+MATH,307,"Applied Linear Algebra",465,430,35,7.5269
+SOCI,217,"Research Methods",343,318,25,7.2886
+EOSC,114,"The Catastrophic Earth: Natural Disasters",1005,932,73,7.2637
+ATSC,113,"Applied Meteorology",1889,1752,137,7.2525
+COMM,291,"Application of Statistics in Business",877,815,62,7.0696
+CHEM,154,"Chemistry for Engineering",813,756,57,7.0111
+BIOC,302,"General Biochemistry",314,292,22,7.0064
+MATH,152,"Linear Systems",925,863,62,6.7027
+CLST,105,"Greek and Roman Mythology",407,380,27,6.6339
+POLI,101,"The Government of Canada",744,695,49,6.5860
+PSYC,306A,"Principles of Animal Behaviour",291,272,19,6.5292
+CHBE,241,"Material and Energy Balances",230,215,15,6.5217
+ECON,326,"Methods of Empirical Research in Economics",261,244,17,6.5134
+CHEM,123,"Thermodynamics, Kinetics and Organic Chemistry",1574,1473,101,6.4168
+PHIL,220A,"Symbolic Logic",857,802,55,6.4177
+COMM,370,"Corporate Finance",473,443,30,6.3425
+BIOL,112,"Biology of the Cell",1604,1504,100,6.2344
+STAT,251,"Elementary Statistics",726,681,45,6.1983
+EOSC,116,"Mesozoic Earth: Time of the Dinosaurs.",888,833,55,6.1937
+FIST,100,"Introduction to Film Studies",309,290,19,6.1489
+HIST,103,"World History Since 1900",293,275,18,6.1433
+JAPN,100,"Beginning Japanese IA",460,432,28,6.0870
+STAT,200,"Elementary Statistics for Applications",954,896,58,6.0797
+ECON,302,"Intermediate Macroeconomic Analysis I",280,263,17,6.0714
+PSYC,315,"Childhood and Adolescence",765,719,46,6.0131
+CHBE,251,"Transport Phenomena I",234,220,14,5.9829
+ECON,102,"Principles of Macroeconomics",2029,1908,121,5.9635
+ECON,355,"Introduction to International Trade",587,552,35,5.9625
+ASTU,100,"1st Year CAP Seminar",369,347,22,5.9621
+BIOL,234,"Fundamentals of Genetics",815,767,48,5.8896
+GEOG,122,"Geography, Modernity and Globalization",222,209,13,5.8559
+PSYC,367,"Sensory Systems",223,210,13,5.8296
+VISA,180,"Foundation Studio: Approaches to Media",241,227,14,5.8091
+PSYC,207,"Contemporary Topics in Biological and Cognitive Psychology",296,279,17,5.7432
+APSC,278,"Engineering Materials",490,462,28,5.7143
+POLI,240,"Currents of Political Thought",368,347,21,5.7065
+PSYC,101,"Introduction to Biological and Cognitive Psychology",2122,2002,120,5.6550
+GEOG,121,"Geography, Environment and Globalization",267,252,15,5.6180
+CONS,200,"Foundations of Conservation",267,252,15,5.6180
+MATH,302,"Introduction to Probability",249,235,14,5.6225
+KIN,206,"Introduction to Statistics in Kinesiology",378,357,21,5.5556
+PSYC,216,"Questioning Psychological Science in the Media",237,224,13,5.4852
+BIOL,260,"Fundamentals of Physiology",578,547,31,5.3633
+PSYC,300A,"Abnormal Psychology",816,773,43,5.2696
+GEOS,270,"Geographic Information Science",232,220,12,5.1724
+BIOL,111,"Introduction to Modern Biology",532,505,27,5.0752
+PSYC,102,"Introduction to Developmental, Social, Personality, and Clinical Psychology",2531,2403,128,5.0573
+CPSC,317,"Internet Computing",462,439,23,4.9784
+SOCI,101,"Social Interaction and Culture",888,844,44,4.9550
+COMM,290,"Introduction to Quantitative Decision Making",911,866,45,4.9396
+KIN,313,"Neuromuscular Integration of Human Movement",265,252,13,4.9057
+CENS,202,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",247,235,12,4.8583
+COGS,200,"Introduction to Cognitive Systems",311,296,15,4.8232
+COMM,298,"Introduction to Finance",956,910,46,4.8117
+PSYC,311,"Psychology of Sport",478,455,23,4.8117
+POLI,110,"Investigating Politics: An Introduction to Scientific Political Analysis",399,380,19,4.7619
+PSYC,322,"Adulthood and Aging",508,484,24,4.7244
+STAT,305,"Introduction to Statistical Inference",277,264,13,4.6931
+APSC,101,"Introduction to Engineering II",884,843,41,4.6380
+SOCI,250,"Crime and Society",478,456,22,4.6025
+PHIL,120,"Introduction to Critical Thinking",461,440,21,4.5553
+ANTH,100A,"Introduction to Cultural Anthropology",690,659,31,4.4928
+CRWR,206,"Introduction to Writing for the Screen",336,321,15,4.4643
+GRSJ,101,"Introduction to Social Justice",472,451,21,4.4492
+COMM,371,"Investment Theory",271,259,12,4.4280
+COMM,354,"Cost Accounting",227,217,10,4.4053
+GERM,100,"Beginners' German I",344,329,15,4.3605
+ENGL,110,"Approaches to Literature",1727,1652,75,4.3428
+BIOL,371,"Principles of Neurobiology I",278,266,12,4.3165
+PHIL,101,"Introduction to Philosophy",356,341,15,4.2135
+CHIN,131,"Basic Chinese I: Part 1 (Non-Heritage)",216,207,9,4.1667
+PHIL,102,"Introduction to Philosophy II",315,302,13,4.1270
+PSYC,307,"Cultural Psychology",786,754,32,4.0712
+GEOS,102,"Our Changing Environment: Climate and Ecosystems",419,402,17,4.0573
+SOCI,102,"Inequality and Social Change",1092,1048,44,4.0293
+PSYC,301,"Brain Dysfunction and Recovery",475,456,19,4.0000
+CAPS,301,"Human Physiology",228,219,9,3.9474
+PSYC,208,"Contemporary Topics in Social, Developmental, Personality, and Clinical Psychology",457,439,18,3.9387
+KIN,205,"Research Methods in Kinesiology",381,366,15,3.9370
+MICB,202,"Introductory Medical Microbiology and Immunology",587,564,23,3.9182
+SOCI,301,"Sociology of Development and Underdevelopment",283,272,11,3.8869
+COMM,353,"Financial Accounting: Intermediate I",233,224,9,3.8627
+GEOG,310,"Environment and Sustainability",365,351,14,3.8356
+ENGL,100,"Reading and Writing about Literature",502,483,19,3.7849
+POLI,375A,"Global Environmental Politics",239,230,9,3.7657
+BIOL,201,"Introduction to Biochemistry",402,387,15,3.7313
+ITAL,101,"Beginners' Italian I",242,233,9,3.7190
+EOSC,110,"The Solid Earth: A Dynamic Planet",324,312,12,3.7037
+PHIL,333A,"Bio-Medical Ethics",468,451,17,3.6325
+WRDS,150B,"Writing and Research in the Disciplines",2790,2689,101,3.6201
+POLI,260,"Introduction to Global Politics",526,507,19,3.6122
+CRWR,201,"Introduction to Writing Poetry",332,320,12,3.6145
+KIN,235,"Exercise Physiology I",249,240,9,3.6145
+POLI,100,"Introduction to Politics",860,829,31,3.6047
+SPAN,102,"Beginners' Spanish II",252,243,9,3.5714
+CPSC,340,"Machine Learning and Data Mining",370,357,13,3.5135
+EOSC,310,"The Earth and the Solar System",342,330,12,3.5088
+ECON,311,"Principles of Macroeconomics",230,222,8,3.4783
+PHYS,157,"Introductory Physics for Engineers I",1007,973,34,3.3764
+COMM,186E,"Topics in Business I",712,688,24,3.3708
+CIVL,215,"Fluid Mechanics I",269,260,9,3.3457
+PSYC,308A,"Social Psychology",572,553,19,3.3217
+ASIA,326,"Critical Approaches to Manga and Anime",463,448,15,3.2397
+FRST,150,"Scholarly Writing and Argumentation in Forestry",216,209,7,3.2407
+PHYS,119,"Experimental Physics Lab I",440,426,14,3.1818
+PHIL,331A,"Business and Professional Ethics",256,248,8,3.1250
+ENGL,111,"Approaches to Non-fictional Prose",289,280,9,3.1142
+BIOL,325,"Introduction to Animal Mechanics and Locomotion",225,218,7,3.1111
+ANTH,203,"Anthropology of Drugs",290,281,9,3.1034
+PSYC,304,"Brain and Behaviour",356,345,11,3.0899
+KIN,211,"Human Motor Behaviour I",264,256,8,3.0303
+CRWR,310,"Video Game Writing and Narrative",264,256,8,3.0303
+CPSC,313,"Computer Hardware and Operating Systems",607,589,18,2.9654
+FREN,102,"Beginners' French II",304,295,9,2.9605
+COMM,294,"Managerial Accounting",849,824,25,2.9446
+CHIN,481,"Modern Chinese Literature I (Heritage)",308,299,9,2.9221
+DSCI,100,"Introduction to Data Science",998,969,29,2.9058
+COMM,205,"Introduction to Management Information Systems",758,737,21,2.7704
+SPAN,101,"Beginners' Spanish I",445,433,12,2.6966
+CRWR,230,"Introduction to Writing for Comedic Forms",333,324,9,2.7027
+COMM,280,Entrepreneurship,222,216,6,2.7027
+CHEM,211,"Introduction to Chemical Analysis",334,325,9,2.6946
+LING,101,"Languages of the World",722,703,19,2.6316
+LFS,150,"Scholarly Writing and Argumentation in Land and Food Systems",229,223,6,2.6201
+EOSC,118,"Earth's Treasures: Gold and Gems",689,671,18,2.6125
+CPSC,100,"Computational Thinking",385,375,10,2.5974
+KIN,262,"Health Policy and Society",231,225,6,2.5974
+STAT,306,"Finding Relationships in Data",231,225,6,2.5974
+PHIL,230A,"Introduction to Ethics",232,226,6,2.5862
+MATH,253,"Multivariable Calculus",659,642,17,2.5797
+BIOL,336,"Fundamentals of Evolutionary Biology",388,378,10,2.5773
+CRWR,208,"Introduction to Writing for Graphic Forms",273,266,7,2.5641
+BIOL,230,"Fundamentals of Ecology",593,578,15,2.5295
+CPEN,221,"Software Construction I",238,232,6,2.5210
+ECON,371,"Economics of the Environment",240,234,6,2.5000
+APSC,100,"Introduction to Engineering I",1017,992,25,2.4582
+CPSC,330,"Applied Machine Learning",244,238,6,2.4590
+BIOL,300,"Fundamentals of Biostatistics",533,520,13,2.4390
+PSYC,302,Infancy,708,691,17,2.4011
+SCIE,113,"First-Year Seminar in Science",500,488,12,2.4000
+FREN,101,"Beginners' French I",586,572,14,2.3891
+FNH,351,"Vitamins, Minerals, and Health",252,246,6,2.3810
+BIOL,121,"Genetics, Evolution and Ecology",1732,1691,41,2.3672
+LING,100,"Introduction to Language and Linguistics",636,621,15,2.3585
+FNH,250,"Nutrition Concepts and Controversies",343,335,8,2.3324
+FNH,350,"Fundamentals of Nutrition",258,252,6,2.3256
+PSYC,320A,"Psychology of Sex Differences",215,210,5,2.3256
+CPSC,221,"Basic Algorithms and Data Structures",950,928,22,2.3158
+LASO,204,"Introduction to Law and Society",259,253,6,2.3166
+GEOS,103,"Our Changing Environment: Water and Landscapes",307,300,7,2.2801
+CPSC,425,"Computer Vision",263,257,6,2.2814
+ECON,255,"Understanding Globalization",310,303,7,2.2581
+CIVL,316,"Hydrology and Open Channel Flow",225,220,5,2.2222
+VISA,110,"Foundation Studio: Digital Media",453,443,10,2.2075
+ASIA,325,"Hong Kong Cinema",226,221,5,2.2124
+PHYS,159,"Introductory Physics Laboratory for Engineers",867,848,19,2.1915
+COMR,465,"Marketing Management",283,277,6,2.1201
+CRWR,209,"Introduction to Writing Fiction",436,427,9,2.0642
+STAT,300,"Intermediate Statistics for Applications",343,336,7,2.0408
+FMST,316,"Human Sexuality",296,290,6,2.0270
+CRWR,203,"Introduction to Writing for Children and Young Adults",248,243,5,2.0161
+FMST,210,"Family Context of Human Development",1249,1224,25,2.0016
+PSYC,309A,"Cognitive Processes",649,636,13,2.0031
+BIOL,205,"Comparative Invertebrate Zoology",253,248,5,1.9763
+KIN,411,"Neuroanatomy of Human Movement",254,249,5,1.9685
+CPSC,304,"Introduction to Relational Databases",520,510,10,1.9231
+CHIN,483,"Modern Chinese Literature II (Heritage)",268,263,5,1.8657
+CHIN,473,"Later Classical Chinese Poetry (after Tang)",325,319,6,1.8462
+SOCI,369,"Sociology of Sexualities",223,219,4,1.7937
+PSYC,217,"Research Methods",851,836,15,1.7626
+LLED,200,"Introduction to Writing in Academic and Professional Registers",286,281,5,1.7483
+COMM,204,"Logistics and Operations Management",749,736,13,1.7356
+PSYC,350A,"Psychological Aspects of Human Sexuality",460,452,8,1.7391
+CNPS,363,"Career Counselling",234,230,4,1.7094
+ENGL,200,"Principles of Literary Studies",304,299,5,1.6447
+PSYC,314,"Health Psychology",800,787,13,1.6250
+GRSJ,300,"Intersectional Approaches to Thinking Gender",247,243,4,1.6194
+COMM,394,"Environment, Society, and Government",750,738,12,1.6000
+FREN,201,"Elementary French I",377,371,6,1.5915
+COMM,101,"Business Fundamentals",771,759,12,1.5564
+COMM,295,"Managerial Economics",786,774,12,1.5267
+FNH,200,"Exploring Our Food",522,514,8,1.5326
+APSC,279,"Engineering Materials Laboratory",391,385,6,1.5345
+KIN,160,"Leisure and Sport in Society",264,260,4,1.5152
+PSYC,305A,"Personality Psychology",814,802,12,1.4742
+COMM,292,"Management and Organizational Behaviour",872,860,12,1.3761
+CPSC,310,"Introduction to Software Engineering",583,575,8,1.3722
+KIN,150,"Sport and Exercise Psychology",293,289,4,1.3652
+CPSC,404,"Advanced Relational Databases",293,289,4,1.3652
+SOCI,200,"Sociology of Family",516,509,7,1.3566
+CONS,101,"Introduction to Conservation",222,219,3,1.3514
+FNH,330,"Introduction to Wine Science 1",299,295,4,1.3378
+CRWR,213,"Introduction to Writing for the New Media",527,520,7,1.3283
+LFS,100,"Introduction to Land, Food and Community",376,371,5,1.3298
+CPSC,314,"Computer Graphics",225,222,3,1.3333
+CHIN,485,"Contemporary Chinese Fiction in Film",235,232,3,1.2766
+EOSC,315,"The Ocean Ecosystem",238,235,3,1.2605
+CNPS,433,"The Personal and Social Development of the Adult",246,243,3,1.2195
+FMST,312,"Parent-child Relationships",333,329,4,1.2012
+KIN,216,"Biomechanics I",253,250,3,1.1858
+CRWR,200,"Introduction to Creative Writing",1350,1335,15,1.1111
+FREN,202,"Elementary French II",360,356,4,1.1111
+PCTH,325,"Rational Basis of Drug Therapy",273,270,3,1.0989
+COMM,395,"Business Communications",827,818,9,1.0883
+CHIN,471,"Later Classical Chinese Poetry (Tang)",382,378,4,1.0471
+ECON,310,"Principles of Microeconomics",216,214,2,0.9259
+CIVL,250,"Engineering and Sustainable Development",215,213,2,0.9302
+MICB,201,"Introductory Environmental Microbiology",441,437,4,0.9070
+COMM,363,"Marketing Analysis",243,241,2,0.8230
+ECON,490,"Seminar in Applied Economics",246,244,2,0.8130
+BIOL,140,"Laboratory Investigations in Life Science",1255,1245,10,0.7968
+KIN,120,"Health and Exercise Management",250,248,2,0.8000
+NURS,180,"Stress and Strategies to Promote Well Being",381,378,3,0.7874
+KIN,131,"Systems Physiology I",257,255,2,0.7782
+CHEM,235,"Organic Chemistry Laboratory",1165,1156,9,0.7725
+EOSC,111,"Laboratory Exploration of Planet Earth",262,260,2,0.7634
+FMST,314,"Relationship Development",434,431,3,0.6912
+CNTO,311,"Basic Cantonese for Mandarin Speakers",289,287,2,0.6920
+COMM,202,"Career Fundamentals",920,914,6,0.6522
+COMM,293,"Financial Accounting",624,620,4,0.6410
+COMM,393,"Commercial Law",642,638,4,0.6231
+COMR,329,"Principles of Organizational Behaviour",336,334,2,0.5952
+COMM,296,"Introduction to Marketing",866,861,5,0.5774
+CONS,127,"Observing the Earth from Space",343,341,2,0.5831
+LFS,250,"Land, Food and Community I: Introduction to Food Systems and Sustainability",366,364,2,0.5464
+FNH,355,"International Nutrition",452,450,2,0.4425
+CHEM,245,"Intermediate Synthetic Chemistry Laboratory",227,226,1,0.4405
+COMM,374,"Applied Financial Markets",234,233,1,0.4274
+COMM,335,"Information Systems Technology and Development",258,257,1,0.3876
+KIN,345,"Foundations of Coaching",267,266,1,0.3745
+CHEM,135,"Introductory Chemical Laboratory II",600,598,2,0.3333
+KIN,424,"Medical Aspects of Sport and Exercise",332,331,1,0.3012
+COMM,203,"Managing the Employment Relationship",753,751,2,0.2656
+COMM,491,"Strategic Management",414,413,1,0.2415
+COMM,390,"Business Writing",790,789,1,0.1266
+APSC,450,"Professional Engineering Practice",771,770,1,0.1297
+KIN,420,"Prevention of Sports Injuries",407,407,0,0.0000
+KIN,232,"Nutrition, Physical Activity, and Health",341,341,0,0.0000
+BASC,550,Operations,324,324,0,0.0000
+FRST,303,"Principles of Forest Science",322,322,0,0.0000
+BA,562,Creativity,318,318,0,0.0000
+GERM,433,"German for Reading Knowledge I",264,264,0,0.0000
+BA,515,"Fundamentals of Analytics and Tech",260,260,0,0.0000
+LFS,350,"Land, Food, and Community II: Principles and Practice of Community Food Security",258,258,0,0.0000
+COMM,365,"Market Research",241,241,0,0.0000
+COMM,362,"Consumer Behaviour",239,239,0,0.0000
+BASC,523,"Supply Chain Management",234,234,0,0.0000
+FRST,302,"Forest Genetics",227,227,0,0.0000
+PHRM,141,"Seminar: Pharmacists in Practice I",220,220,0,0.0000
+PHRM,100,"Foundations of Pharmacy",218,218,0,0.0000
+KIN,320,"Exercise Testing and Prescription",216,216,0,0.0000
+PHRM,111,"Medication Management I",215,215,0,0.0000
