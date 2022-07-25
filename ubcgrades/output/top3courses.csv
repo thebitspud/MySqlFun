@@ -1,0 +1,563 @@
+Subject,Course,Title,Enrolled,"Subject Total"
+PSYC,102,"Introduction to Developmental, Social, Personality, and Clinical Psychology",2531,5509
+PSYC,101,"Introduction to Biological and Cognitive Psychology",2122,5509
+PSYC,218,"Analysis of Behavioural Data",856,5509
+ECON,101,"Principles of Microeconomics",2296,4912
+ECON,102,"Principles of Macroeconomics",2029,4912
+ECON,355,"Introduction to International Trade",587,4912
+BIOL,121,"Genetics, Evolution and Ecology",1732,4722
+BIOL,112,"Biology of the Cell",1604,4722
+BIOL,200,"Fundamentals of Cell Biology",1386,4722
+WRDS,150B,"Writing and Research in the Disciplines",2790,4642
+WRDS,150A,"Writing and Research in the Disciplines",1746,4642
+WRDS,350,"Knowledge-Making in the Disciplines",106,4642
+CHEM,121,"Structure and Bonding in Chemistry",1882,4629
+CHEM,123,"Thermodynamics, Kinetics and Organic Chemistry",1574,4629
+CHEM,233,"Organic Chemistry for the Biological Sciences",1173,4629
+MATH,100,"Differential Calculus with Applications to Physical Sciences and Engineering",1665,4375
+MATH,101,"Integral Calculus with Applications to Physical Sciences and Engineering",1405,4375
+MATH,200,"Calculus III",1305,4375
+CPSC,110,"Computation, Programs, and Programming",1393,3635
+CPSC,210,"Software Construction",1175,3635
+CPSC,121,"Models of Computation",1067,3635
+PHYS,131,"Energy and Waves (Lecture)",1217,3280
+PHYS,170,"Mechanics I",1056,3280
+PHYS,157,"Introductory Physics for Engineers I",1007,3280
+APSC,100,"Introduction to Engineering I",1017,2910
+APSC,160,"Introduction to Computation in Engineering Design",1009,2910
+APSC,101,"Introduction to Engineering II",884,2910
+COMM,298,"Introduction to Finance",956,2787
+COMM,202,"Career Fundamentals",920,2787
+COMM,290,"Introduction to Quantitative Decision Making",911,2787
+EOSC,114,"The Catastrophic Earth: Natural Disasters",1005,2582
+EOSC,116,"Mesozoic Earth: Time of the Dinosaurs.",888,2582
+EOSC,118,"Earth's Treasures: Gold and Gems",689,2582
+ENGL,110,"Approaches to Literature",1727,2533
+ENGL,100,"Reading and Writing about Literature",502,2533
+ENGL,200,"Principles of Literary Studies",304,2533
+SOCI,102,"Inequality and Social Change",1092,2496
+SOCI,101,"Social Interaction and Culture",888,2496
+SOCI,200,"Sociology of Family",516,2496
+CRWR,200,"Introduction to Creative Writing",1350,2313
+CRWR,213,"Introduction to Writing for the New Media",527,2313
+CRWR,209,"Introduction to Writing Fiction",436,2313
+POLI,100,"Introduction to Politics",860,2130
+POLI,101,"The Government of Canada",744,2130
+POLI,260,"Introduction to Global Politics",526,2130
+STAT,200,"Elementary Statistics for Applications",954,2084
+STAT,251,"Elementary Statistics",726,2084
+STAT,302,"Introduction to Probability",404,2084
+ATSC,113,"Applied Meteorology",1889,2062
+ATSC,201,"Meteorology of Storms",94,2062
+ATSC,313,"Renewable Energy Meteorology",79,2062
+FMST,210,"Family Context of Human Development",1249,2016
+FMST,314,"Relationship Development",434,2016
+FMST,312,"Parent-child Relationships",333,2016
+PHIL,220A,"Symbolic Logic",857,1786
+PHIL,333A,"Bio-Medical Ethics",468,1786
+PHIL,120,"Introduction to Critical Thinking",461,1786
+LING,101,"Languages of the World",722,1505
+LING,100,"Introduction to Language and Linguistics",636,1505
+LING,200,"Linguistic Theory and Analysis I",147,1505
+FREN,101,"Beginners' French I",586,1323
+FREN,201,"Elementary French I",377,1323
+FREN,202,"Elementary French II",360,1323
+FNH,200,"Exploring Our Food",522,1317
+FNH,355,"International Nutrition",452,1317
+FNH,250,"Nutrition Concepts and Controversies",343,1317
+DSCI,100,"Introduction to Data Science",998,1300
+DSCI,561,"Regression I",151,1300
+DSCI,513,"Databases and Data Retrieval",151,1300
+MICB,202,"Introductory Medical Microbiology and Immunology",587,1236
+MICB,201,"Introductory Environmental Microbiology",441,1236
+MICB,302,Immunology,208,1236
+KIN,420,"Prevention of Sports Injuries",407,1166
+KIN,205,"Research Methods in Kinesiology",381,1166
+KIN,206,"Introduction to Statistics in Kinesiology",378,1166
+ANTH,100A,"Introduction to Cultural Anthropology",690,1134
+ANTH,203,"Anthropology of Drugs",290,1134
+ANTH,220,"First Nations of British Columbia",154,1134
+CHIN,471,"Later Classical Chinese Poetry (Tang)",382,1015
+CHIN,473,"Later Classical Chinese Poetry (after Tang)",325,1015
+CHIN,481,"Modern Chinese Literature I (Heritage)",308,1015
+LFS,100,"Introduction to Land, Food and Community",376,1000
+LFS,250,"Land, Food and Community I: Introduction to Food Systems and Sustainability",366,1000
+LFS,350,"Land, Food, and Community II: Principles and Practice of Community Food Security",258,1000
+CLST,301,"The Technical Terms of Medicine and Biological Science",532,999
+CLST,105,"Greek and Roman Mythology",407,999
+CLST,232,"Ancient Rome",60,999
+COMR,457,"Fundamentals of Financial Accounting",376,995
+COMR,329,"Principles of Organizational Behaviour",336,995
+COMR,465,"Marketing Management",283,995
+GEOS,102,"Our Changing Environment: Climate and Ecosystems",419,958
+GEOS,103,"Our Changing Environment: Water and Landscapes",307,958
+GEOS,270,"Geographic Information Science",232,958
+SPAN,101,"Beginners' Spanish I",445,931
+SPAN,102,"Beginners' Spanish II",252,931
+SPAN,201,"Elementary Spanish I",234,931
+BIOC,202,"Introductory Medical Biochemistry",430,904
+BIOC,302,"General Biochemistry",314,904
+BIOC,301,"Biochemistry Laboratory",160,904
+ASIA,326,"Critical Approaches to Manga and Anime",463,887
+ASIA,325,"Hong Kong Cinema",226,887
+ASIA,355,"History of Chinese Cinema",198,887
+GEOG,310,"Environment and Sustainability",365,854
+GEOG,121,"Geography, Environment and Globalization",267,854
+GEOG,122,"Geography, Modernity and Globalization",222,854
+GRSJ,101,"Introduction to Social Justice",472,849
+GRSJ,300,"Intersectional Approaches to Thinking Gender",247,849
+GRSJ,102,"Global Issues in Social Justice",130,849
+VISA,110,"Foundation Studio: Digital Media",453,845
+VISA,180,"Foundation Studio: Approaches to Media",241,845
+VISA,183,"Foundation Studio: Ideas as Practice I",151,845
+CONS,127,"Observing the Earth from Space",343,832
+CONS,200,"Foundations of Conservation",267,832
+CONS,101,"Introduction to Conservation",222,832
+JAPN,100,"Beginning Japanese IA",460,806
+JAPN,101,"Beginning Japanese IB",199,806
+JAPN,200,"Beginning Japanese II A",147,806
+BA,562,Creativity,318,787
+BA,515,"Fundamentals of Analytics and Tech",260,787
+BA,507,"Business Strategy Integration: Global",209,787
+ELEC,201,"Circuit Analysis I",327,787
+ELEC,221,"Signals and Systems",289,787
+ELEC,301,"Electronic Circuits",171,787
+GERM,100,"Beginners' German I",344,777
+GERM,433,"German for Reading Knowledge I",264,777
+GERM,304,"German Cinema (in English)",169,777
+CPEN,211,"Introduction to Microcomputers",321,773
+CPEN,221,"Software Construction I",238,773
+CPEN,333,"System Software Engineering",214,773
+FRST,303,"Principles of Forest Science",322,765
+FRST,302,"Forest Genetics",227,765
+FRST,150,"Scholarly Writing and Argumentation in Forestry",216,765
+MECH,360,"Mechanics of Materials",298,755
+MECH,260,"Introduction to Mechanics of Materials",283,755
+MECH,325,"Machine Design",174,755
+CIVL,215,"Fluid Mechanics I",269,712
+CIVL,316,"Hydrology and Open Channel Flow",225,712
+CIVL,210,"Soil Mechanics I",218,712
+CHBE,244,"Chemical and Biological Engineering Thermodynamics I",247,711
+CHBE,251,"Transport Phenomena I",234,711
+CHBE,241,"Material and Energy Balances",230,711
+NURS,180,"Stress and Strategies to Promote Well Being",381,706
+NURS,280,"Human Sexual Health",198,706
+NURS,300,"Theoretical and Professional Foundations for Nursing Practice",127,706
+BASC,550,Operations,324,700
+BASC,523,"Supply Chain Management",234,700
+BASC,500,"Process Fundamentals",142,700
+SCIE,113,"First-Year Seminar in Science",500,678
+SCIE,300,"Communicating Science",104,678
+SCIE,1,"Science One",74,678
+CNPS,433,"The Personal and Social Development of the Adult",246,676
+CNPS,363,"Career Counselling",234,676
+CNPS,365,"Introduction to Theories of Counselling",196,676
+BUSI,335,"Information Systems",229,669
+BUSI,293,"Introductory Financial Accounting",227,669
+BUSI,355,"Introduction to Income Tax",213,669
+PHRM,141,"Seminar: Pharmacists in Practice I",220,653
+PHRM,100,"Foundations of Pharmacy",218,653
+PHRM,111,"Medication Management I",215,653
+CAPS,391,"Introduction to Gross Human Anatomy",238,609
+CAPS,301,"Human Physiology",228,609
+CAPS,390,"Introduction to Microscopic Human Anatomy",143,609
+EPSE,449,"Education of Students with Autism",209,598
+EPSE,301,"Introduction to Educational Psychology",205,598
+EPSE,406,"Typical and Atypical Development in Infants and Children",184,598
+HIST,103,"World History Since 1900",293,569
+HIST,102,"World History from 1500 to the Twentieth Century",174,569
+HIST,432,"International Relations in the Twentieth Century",102,569
+ASTU,100,"1st Year CAP Seminar",369,562
+ASTU,101,"Writing for Research in the Social Sciences and the Humanities",106,562
+ASTU,204A,"Topics in Interdisciplinary Arts Studies",87,562
+COGS,200,"Introduction to Cognitive Systems",311,560
+COGS,300,"Understanding and Designing Cognitive Systems",127,560
+COGS,303,"Research Methods in Cognitive Systems",122,560
+LAW,200,"Indigenous Settler Legal Relations",191,560
+LAW,281,"Legal Research and Writing",185,560
+LAW,468,"Ethics and Professionalism",184,560
+ARCL,228,"Forensic Anthropology",213,512
+ARCL,203,"Archaeological Methods",153,512
+ARCL,103,"Introduction to Archaeology",146,512
+LLED,200,"Introduction to Writing in Academic and Professional Registers",286,507
+LLED,201,"Critical Reading and Writing in Academic and Professional Registers",168,507
+LLED,462,"School Library Resource Centre Programs",53,507
+ASTR,333,"Exoplanets and Astrobiology",182,493
+ASTR,311,"Exploring the Universe: Stars and Galaxies",172,493
+ASTR,102,"Introduction to Stars and Galaxies",139,493
+FIST,100,"Introduction to Film Studies",309,487
+FIST,300,"Cult Cinema",99,487
+FIST,220,"Hollywood Cinema 1930-1960",79,487
+APBI,200,"Introduction to Soil Science",256,485
+APBI,314,"Animals and Society",146,485
+APBI,490,"Advanced Topics in Applied Biology",83,485
+ADHE,329,"Developing Short Courses, Workshops and Seminars",166,484
+ADHE,327,"Teaching Adults",164,484
+ADHE,412,"An Overview of Adult Education",154,484
+BAMA,508,"Marketing Research",194,470
+BAMA,505,"Business Development",144,470
+BAMA,550,Marketing,132,470
+VANT,148,"UBC Vantage College Projects",195,448
+VANT,140D,"Content and Language Enrichment Tutorials",168,448
+VANT,140C,"Content and Language Enrichment Tutorials",85,448
+BAAC,550,"Foundations in  Accounting",209,418
+BAAC,551,"Foundations in Accounting II",180,418
+BAAC,511,"Intermediate Managerial Accounting: Decision Making and Performance Evaluation",29,418
+PCTH,325,"Rational Basis of Drug Therapy",273,400
+PCTH,201,"Drugs and Society",104,400
+PCTH,300,"Introduction to Pharmacology",23,400
+BAEN,550,"Fundamentals in Entrepreneurship",205,392
+BAEN,540,"Strategy & Innovation",101,392
+BAEN,505,"Entrepreneurial Finance",86,392
+CENS,202,"Great Works of Literature from Central, Eastern and Northern Europe (in English).",247,389
+CENS,303B,"Representations of the Holocaust (in English)",87,389
+CENS,201,"Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",55,389
+BAHR,507,"Two-Party Negotiations",214,388
+BAHR,550,"Organizational Behavior",132,388
+BAHR,580A,"Topics in Human Resources",42,388
+DES,230,"Sustainability by Design",170,378
+DES,200,"Design Thinking",104,378
+DES,130,"Design, Culture and Ecology",104,378
+ITAL,101,"Beginners' Italian I",242,375
+ITAL,102,"Beginners' Italian II",91,375
+ITAL,201,"Elementary Italian I",42,375
+BMEG,230,"Biomechanics I",123,363
+BMEG,220,"Circuits and Electromagnetics with Application to Biomedical Engineering",121,363
+BMEG,245,"The Fundamental Units of Life: From Cells To Systems",119,363
+SPPH,502,"Epidemiological Methods 1",130,344
+SPPH,400,"Statistics for Health Research",116,344
+SPPH,381C,"Selected Topics",98,344
+RELG,101,"Jewish, Christian, and Muslim Religious Traditions",144,340
+RELG,201,"Near Eastern and Biblical Mythology",100,340
+RELG,203,"Scriptures of the Near East",96,340
+CNTO,311,"Basic Cantonese for Mandarin Speakers",289,339
+CNTO,403,"Intermediate Cantonese II",28,339
+CNTO,401,"Intermediate Cantonese I",22,339
+APPP,503,"Organizational Leadership",154,322
+APPP,502,"Sustainability and Leadership",114,322
+APPP,501,"Project Management and Leadership",54,322
+MUSC,154A,"University Choral Union",117,317
+MUSC,119,"Introduction to Music Technology",104,317
+MUSC,323,"History of Popular Music",96,317
+BAFI,511,"Investment Theory and Asset Pricing",135,305
+BAFI,500,"Introductory Finance",93,305
+BAFI,580B,"Special Topics in Finance",77,305
+MTRL,280,"Materials in Design",110,305
+MTRL,264,"Transport Phenomena II - Heat Transport",99,305
+MTRL,263,"Transport Phenomena I - Fluid Mechanics",96,305
+PHTH,565,"Clinical Practice VIb",102,304
+PHTH,544,"Clinical Practice IVa",101,304
+PHTH,531,"Pathology for Physical Therapy III",101,304
+ETEC,512,"Applications of Learning Theories to the Analysis of Instructional Settings",105,303
+ETEC,510,"Design of Technology- Supported Learning Environments",104,303
+ETEC,500,"Research Methodology in Education",94,303
+ARTH,101,"Ways of Seeing: Introduction to Visual Studies",114,298
+ARTH,102,"Crisis and Contradiction in Art and the Built Environment",108,298
+ARTH,322,"Early Modern Italian Art and Culture (ca. 1550-1700)",76,298
+BABS,550,"Application of Statistics in Management",165,295
+BABS,507,"Descriptive and Predictive Business Analysis",65,295
+BABS,502,"Forecasting and Time Series Prediction",65,295
+LIBR,507,"Methods of Research and Evaluation in Information Organizations",97,286
+LIBR,506,"Human-Information Interaction",95,286
+LIBR,509,"Foundations of Resource Description and Knowledge Organization",94,286
+THTR,130,"Introduction to Stage Acting",102,277
+THTR,210,"Drama: Forms and Ideas I",98,277
+THTR,211,"Drama: Forms and Ideas II",77,277
+BAPA,550,"Managerial Economics I",166,273
+BAPA,560,"Foundations of Managerial and Business Economics",107,273
+WOOD,225,"Communications Strategies",114,264
+WOOD,365,"Wood Industry Business Management",77,264
+WOOD,461,"Globalization and Sustainability",73,264
+LASO,204,"Introduction to Law and Society",259,259
+UFOR,100,"Greening the City",96,258
+UFOR,402,"Urban Forestry Administration, Policy and Law",86,258
+UFOR,110,"Introduction to Urban Forest Design",76,258
+ECED,401,"Supporting Young Children's Health and Well-Being in Early Childhood Settings",100,253
+ECED,400,"Introduction to Early Childhood Education and Care",95,253
+ECED,421,"Supporting Young Children Through Home, School, and Community Relationships",58,253
+COEC,293,"Financial Accounting",121,251
+COEC,371,"Investment Theory",79,251
+COEC,475,"The Economics & Policy of the Environment, Energy, and Natural Resources",51,251
+PLAN,221,"City Visuals",94,235
+PLAN,341,"Smart Cities: Concepts, Methods and Design",76,235
+PLAN,425,"Urban Planning Issues and Concepts",65,235
+BASM,502,"Corporate Strategy",98,226
+BASM,516,"Economics and Strategy of Innovation",66,226
+BASM,501,"Business Strategy",62,226
+SOWK,200,"Introduction to Social Welfare",97,213
+SOWK,310A,"Interviewing Skills",59,213
+SOWK,201,"Introduction to Social Work Practice",57,213
+ENPH,352,"Laboratory Techniques in Physics",70,205
+ENPH,479,"Engineering Physics Project III",69,205
+ENPH,259,"Experimental Techniques",66,205
+ENVR,200,"Introduction to Environmental Science",92,205
+ENVR,300,"Introduction to Research in Environmental Science",58,205
+ENVR,430,"Ecological Dimensions of Sustainability",55,205
+ARCH,517,"Design Media II",74,203
+ARCH,549,"Graduate Project Part II",65,203
+ARCH,541,"Professional Practice",64,203
+FIPR,131,"Introduction to Screen Acting",73,199
+FIPR,133,"Introduction to Film and Media Production",68,199
+FIPR,230,"Introduction to Motion Picture Directing",58,199
+LATN,101,"Beginning Latin I",140,198
+LATN,102,"Beginning Latin II",34,198
+LATN,201,"Intermediate Latin I",24,198
+EDUC,500,"Research Methodology in Education",146,196
+EDUC,140,"Introduction to Indigenous Studies",31,196
+EDUC,240,"Issues in Indigenous Education",19,196
+BAIT,507,"Data Management for Business Analytics",65,195
+BAIT,509,"Business Applications of Machine Learning",65,195
+BAIT,580A,"Topics in Information Technology Management",65,195
+BAMS,517,"Decision Analysis Under Uncertainty",65,195
+BAMS,508,"Optimal Decision Making II",65,195
+BAMS,503,"Simulation Modelling I: Data Processing and Monte Carlo Simulation",65,195
+OSOT,515,"Occupation in Practice I: Foundation of Occupational Therapy Assessment and Intervention",64,192
+OSOT,513,"Health, Illness & Occupation",64,192
+OSOT,511,"Fundamentals of Occupational Therapy: Theory, Conceptual Models and the Practice Process",64,192
+FRE,302,"Small Business Management in Agri-food Industries",72,189
+FRE,374,"Land and Resource Economics",60,189
+FRE,340,"International Agricultural Development",57,189
+PPGA,508,"Policy in Context",64,188
+PPGA,503,"Measurement and Data Analysis for Policy",63,188
+PPGA,505,"Domestic and Global Policy Processes",61,188
+MINE,303,"Rock Mechanics Fundamentals",60,175
+MINE,486,"Mining and The Environment",59,175
+MINE,396,"Engineering Economics",56,175
+ISCI,360,"Systems Approaches to Regional Sustainability",69,172
+ISCI,312,Symmetry,57,172
+ISCI,311,"The Size of Things",46,172
+KORN,102,"Basic Korean",87,172
+KORN,200,"Intermediate Korean",59,172
+KORN,351A,"Introduction to Sino-Korean Readings",26,172
+AUDI,403,"Introduction to Neurolinguistics",65,169
+AUDI,402,"Neuroanatomy for Audiology and Speech-Language Pathology",57,169
+AUDI,518,"Fundamentals of Audiology",47,169
+IGEN,330,"Intermediate Engineering Design",60,169
+IGEN,230,"Introduction to Engineering Design",59,169
+IGEN,201,"Integrated Technical Communication",50,169
+RUSS,101,"Basic Russian I",82,165
+RUSS,207,"Twentieth-Century Russian Writers in Translation",42,165
+RUSS,206,"Nineteenth-Century Russian Writers in Translation",41,165
+CNRS,104,"Temples, Tombs, and Tyrants: The Archaeology of the Middle East, Greece, and Rome",103,162
+CNRS,370,"Theories of Myth",42,162
+CNRS,500B,"Pro-Seminar in Ancient Mediterranean Studies: Selected Topics",17,162
+AFST,250A,"Introduction to African Studies",102,156
+AFST,351A,"Perspectives in African Studies: Literary and Theoretical Approaches",36,156
+AFST,352A,"Perspectives in African Studies: A Social Science Approach",18,156
+JRNL,100A,"New Media and Society",82,154
+JRNL,534,"Media Law",36,154
+JRNL,533,"Media Ethics & Leadership",36,154
+URST,200,Cities,93,153
+URST,400,"Seminar in Urban Studies",60,153
+SCAN,335,"Vikings and Norse Mythology (in English)",76,152
+SCAN,337,"Scandinavian Cinema (in English)",38,152
+SCAN,414,"Topics in Danish and Northern European Cultural Studies (in English).",38,152
+ACAM,320B,"Selected Topics in ACAM Studies",53,151
+ACAM,250,"Asian Canadians in Popular Culture",50,151
+ACAM,300,"Dis/Orienting Asian Canada",48,151
+EDCP,562,"Curriculum Issues and Theories",70,148
+EDCP,304,"Textile Design and Pedagogical Approaches: Art Education",39,148
+EDCP,303,"Ceramic Design and Pedagogical Approaches: Art Education",39,148
+EECE,571T,"Electrical Engineering Seminar and Special Problems",49,146
+EECE,571B,"Electrical Engineering Seminar and Special Problems",49,146
+EECE,571F,"Electrical Engineering Seminar and Special Problems",48,146
+RHSC,420,"Elements of Neuroanatomy and Neurophysiology",99,146
+RHSC,530,"Research Proposal",26,146
+RHSC,502,"Rehabilitation Theory",21,146
+ENVE,200,"Environmental Engineering Design and Decision Making",47,138
+ENVE,202,"Environmental Engineering Science",46,138
+ENVE,201,"Technical Communications for Environmental Engineering",45,138
+RMST,202,"Introduction to Literatures and Cultures of the Romance World II: Modern to Post-Modern",76,137
+RMST,201,"Introduction to Literatures and Cultures of the Romance World I: Medieval to Early Modern",37,137
+RMST,321,"French Literature from the Middle Ages to the Revolution",24,137
+PHAR,180,"Pharmaceutical Topics and Communication Seminar I",63,136
+PHAR,202,"Biochemical Pharmacology",38,136
+PHAR,280,"Pharmaceutical Topics and Communication Seminar II",35,136
+PATH,375,"Introduction to Human Pathology",89,135
+PATH,300,"Background to Medical Laboratory Science",23,135
+PATH,301,"Basic and Physical Biochemistry for Medical Laboratory Scientists",23,135
+LARC,444,"Green Network Planning",54,131
+LARC,531,"Landscape Technologies I",39,131
+LARC,525,"Design Research Methods",38,131
+MANU,265,"Machine Dynamics",46,131
+MANU,230,"Manufacturing Engineering Laboratory",43,131
+MANU,201,"Technical Communication",42,131
+INFO,303,"Search Engines and Society",42,125
+INFO,100,"(De)coding Information and Why it Matters",42,125
+INFO,250,"Networks, Crowds, and Communities",41,125
+SPHA,531,"Economic Evaluation",41,121
+SPHA,542,"Operations and Logistics",40,121
+SPHA,501,"Basic Finance",40,121
+LIBE,463,"Selection of Learning Resources I",48,119
+LIBE,467,"Information Services I",42,119
+LIBE,465,"Organization of Learning Resources",29,119
+BALA,503,"Commercial Law",116,116
+FNIS,100,"Indigenous Foundations",41,115
+FNIS,220,"Representation and Indigenous Cultural Politics",41,115
+FNIS,210,"Indigenous Politics and Self-Determination",33,115
+FCOR,502,Entrepreneurship,38,114
+FCOR,501,"Project Management",38,114
+FCOR,500,"Leadership and Sustainability",38,114
+ASL,100,"American Sign Language and Deaf Culture I",88,110
+ASL,101,"American Sign Language and Deaf Culture II",22,110
+ANAT,392,"Gross Anatomy of the Limbs and Trunk",100,108
+ANAT,511,"Fundamentals of Body Design: Basic Principles in Human Anatomy as Illustrated by the Organization of the Back and Upper Limb",8,108
+CSIS,300A,"Introduction to Critical Studies in Sexuality",73,106
+CSIS,200,"Critical Engagements in Sexuality Studies",33,106
+COHR,304,"Training, Development, and Performance Management",39,105
+COHR,433,"Employment Law",33,105
+COHR,305,"Strategic Compensation",33,105
+COLX,563,"Advanced Computational Semantics",35,105
+COLX,521,"Corpus Linguistics",35,105
+COLX,561,"Computational Semantics",35,105
+ITST,380,"Italian Food Cultures",50,105
+ITST,110,""Made in Italy"""",30,105
+ITST,333,"Masterpieces of the Novella in Italian Literature",25,105
+FOOD,512,"Hazard Analysis and Critical Control Point and Food Safety Management",39,103
+FOOD,528,"International Food Laws and Regulations",37,103
+FOOD,527A,"Special Topics in Food Science",27,103
+DHYG,412,"Oral Health Care Trends & Topics",42,102
+DHYG,462,"Literature Review II",31,102
+DHYG,405,"Oral Microbiology and Immunology",29,102
+PUNJ,102,"Introductory Punjabi",44,102
+PUNJ,200,"Intermediate Punjabi",42,102
+PUNJ,300,"Advanced Punjabi",16,102
+ARST,573,"Archival Systems and the Profession",33,97
+ARST,520,"Selection and Acquisition of Archival Documents",33,97
+ARST,510,"Archival Diplomatics",31,97
+CEEN,523,"Energy and the Environment",36,97
+CEEN,501,"Energy System Fundamentals",33,97
+CEEN,550,"Energy Efficiency and Conservation",28,97
+ARTS,1A,"Arts One",95,95
+NEST,304,"Ancient Egypt: The Archaeology of the Land of the Pharaohs",43,94
+NEST,301,"Early Empires of the Ancient Middle East",28,94
+NEST,313,"Introduction to Middle Egyptian",23,94
+BEST,202,"Alternative Energy Systems",32,93
+BEST,203,"Ecology of Managed Ecosystems",31,93
+BEST,200,"Foundations in Bioproducts and the Bioeconomy",30,93
+PORT,101,"First-Year Portuguese I",37,92
+PORT,405,"Studies in Portuguese and Brazilian Culture (In English)",37,92
+PORT,392,"Studies in Portuguese and Brazilian Literature (in English)",18,92
+GEM,500,"Landscape Ecology and Management",33,89
+GEM,510,"Geographic Information Systems for Forestry and Conservation",28,89
+GEM,511,"Advanced Geographic Information Systems for Environmental Management",28,89
+MEDG,421,"Genetics and Cell Biology of Cancer",35,88
+MEDG,580,"Genomic Testing and Clinical Bioinformatics",27,88
+MEDG,585,"Applied Variant Interpretation",26,88
+FOPR,264,"Introduction to Forest Operations",36,86
+FOPR,362,"Harvesting Systems and Forest Access",35,86
+FOPR,464,"Operational Planning and Management",15,86
+BAUL,500,"Real Estate Markets",59,84
+BAUL,501,"Real Estate Investment Analysis",25,84
+MDVL,301,"European Literature from the 5th to the 14th Century",39,84
+MDVL,210,"Introduction to Medieval Studies",32,84
+MDVL,310A,"Topics in Medieval Studies",13,84
+UDES,506,"Real Estate Economics: Development Feasibility and Financing",30,84
+UDES,505,"Urban Design as Public Policy: Policymaking for a Sustainable Region",27,84
+UDES,509A,"Topics in Urban Design",27,84
+ARBC,101,"Beginning Classical and Quranic Arabic I",51,80
+ARBC,102,"Beginning Classical and Quranic Arabic II",16,80
+ARBC,202,"Intermediate Classical and Quranic Arabic II",13,80
+PERS,400,"Persian Short Story for Native and Heritage Speakers",28,77
+PERS,401,"Contemporary Iranian Cinema for Advanced Speakers of Persian",27,77
+PERS,104,"Persian Reading and Writing for Persian-Speaking Students",22,77
+EDST,493,"Introduction to the Study of Higher Education",35,76
+EDST,523A,"Comparative Education",22,76
+EDST,503,"Foundations of Adult Learning and Education",19,76
+LWS,501,"Advanced Soil Processes",26,74
+LWS,550,"Professional Communications Strategies",24,74
+LWS,510,"Land and Water Seminar",24,74
+NAME,522,"Ship Production and Industrial Engineering",28,73
+NAME,566,"Ship Dynamics and Control",26,73
+NAME,581,"Ship Design",19,73
+SWED,100,"Elementary Swedish I",37,72
+SWED,110,"Elementary Swedish II",21,72
+SWED,210,"Intermediate Swedish II",14,72
+HPB,501,"Green Building Contemporary Practice",26,71
+HPB,504,"Building Energy Systems Design",26,71
+HPB,502,"Regenerative Development",19,71
+MEDI,501,"Molecular and Cellular Biology of Experimental Medicine",31,67
+MEDI,503,"Introduction to Clinical, Patient Oriented and Translational Research",29,67
+MEDI,504A,"Emerging Topics in Experimental Medicine",7,67
+RGST,200,"Introduction to the Study of Religion",48,65
+RGST,300,"Theory and Method in the Study of Religion",17,65
+MIDW,405,"Advanced Topics in Midwifery Theory and Practice",23,63
+MIDW,102,"Birth and its Meaning",20,63
+MIDW,103,"Applied Health Services for Maternity Providers",20,63
+FNEL,180,"Introduction to Endangered Language Documentation and Revitalization",30,58
+FNEL,281,"Sounds of Endangered Languages: Conservation and Revitalization",14,58
+FNEL,380,"Technologies for Endangered Language Documentation and Revitalization",14,58
+SURG,510,"Surgical Care in International Health",22,55
+SURG,514,"Surgical Care in Humanitarian Disaster Response",17,55
+SURG,516,"Program Planning and Evaluation in Surgical Care Low Resource Settings",16,55
+RES,510,"Social Ecological Systems",20,54
+RES,505,"Qualitative Methods in Interdisciplinary Contexts",19,54
+RES,502,"Master's Seminar on Resources and Environment",15,54
+SOIL,516,"Urban Watershed Management",25,52
+SOIL,515,"Watershed Science",14,52
+SOIL,502,"Advanced Sustainable Soil Management",13,52
+BIOF,501A,"Special Topics in Bioinformatics",21,49
+BIOF,520,"Problem-Based Learning In Bioinformatics",16,49
+BIOF,540,"Statistical Methods for High Dimensional Biology",12,49
+GREK,101,"Beginning Ancient Greek I",25,48
+GREK,102,"Beginning Ancient Greek II",15,48
+GREK,201,"Intermediate Ancient Greek I",8,48
+CELL,507,"Special Techniques and Protocols in Cell and Developmental Biology",22,46
+CELL,503,"Current Topics in Cellular Communication",12,46
+CELL,502,"Current Topics in Developmental Biology",12,46
+LAST,100,"Introduction to Latin American Studies",25,46
+LAST,201,"Popular Culture in Latin America",21,46
+FISH,507,"Grand Challenges in Ocean Leadership",18,44
+FISH,500,"Issues in Fisheries Research: Seminars - Fisheries Management",18,44
+FISH,506F,"Current Topics in Fisheries",8,44
+ASIC,220,"Introduction to Sustainability",43,43
+MES,300,"The Middle East: Critical Questions and Debates",40,40
+URSY,540,"Urban Systems Project Delivery and Economics",13,39
+URSY,510,"Urban Systems and Society",13,39
+URSY,520,"Urban Systems Analysis and Planning",13,39
+HGSE,370,"Introduction to Resilience Theory in Community",15,38
+HGSE,360,"Ocean People, Culture and Tradition",13,38
+HGSE,320A,"Special Topics on Ecology and Society",10,38
+THFL,100,"The Art of Storytelling for Stage and Screen",38,38
+SLAV,307A,"Literature and Film in Eastern Europe",35,35
+BOTA,501,"Seminar in Botany",18,34
+BOTA,546B,"Topics in Botany",10,34
+BOTA,546F,"Topics in Botany",6,34
+GEOB,500,"Theory and Practice of Research in Geographical Sciences",18,32
+GEOB,503A,"Topics in Geomorphology and Hydrology",14,32
+OBST,506,"Seminars in Reproductive Biology",14,31
+OBST,511,"Women's Mental Health across their Lifecycle",10,31
+OBST,510,"Gynecologic Pathologies: Benign and Malignant",7,31
+NRSC,500,"Neuroscience I",30,30
+MRNE,400A,"Directed Studies",9,27
+MRNE,425,"Ecological Adaptations of Seaweeds",9,27
+MRNE,415,"Structure and Function in Marine Animals",9,27
+ONCO,502,"Concepts in Oncology",27,27
+IWME,504,"Water and Wastewater Management Strategies",11,25
+IWME,503,"Chemical and Biological Industrial Water Treatment Design",8,25
+IWME,501,"Environmental Fluid Mechanics",6,25
+CDST,350B,"Canadian Studies",15,24
+CDST,450B,"Senior Seminar in Canadian Studies",9,24
+GSAT,502,"Advanced Concepts in Genome Science and Technology",14,22
+GSAT,540,"Statistical Methods for High Dimensional Biology",8,22
+FOPE,500,"Sustainable Forest Management in a Changing World",11,21
+FOPE,503,"Climate Modelling and Forest Applications",10,21
+HINU,102,"Introductory Hindi-Urdu",12,19
+HINU,200,"Intermediate Hindi-Urdu",7,19
+DANI,110,"Elementary Danish II",9,17
+DANI,100,"Elementary Danish I",8,17
+INLB,210,"Land and Indigenous Self-Determination: Introduction to Theoretical Perspectives",9,17
+INLB,252,"Introduction to Gender Justice and Indigenous Communities",8,17
+GBPR,501,"Biomass Fractionation Chemistry",15,15
+INDS,502E,"Interdisciplinary Studies: Thematic Seminars",14,14
+SANS,300,"Introductory Sanskrit",14,14
+ECPS,310,"International Development and Human Security",12,12
+HEBR,202,"Intermediate Biblical Hebrew II",6,12
+HEBR,201,"Intermediate Biblical Hebrew I",6,12
+AANB,550,"Topics in Animal Welfare",11,11
+TIBT,100,"Introduction to Tibetan I",11,11
+POLS,200,"Beginner's Polish",10,10
+CCST,501,"Seminar in Contemporary Contextual Issues for Museums and Curatorial Practice",8,8
+GRS,300,"Global Water and Energy Nexus",8,8
+ZOOL,503,"Comparative Animal Physiology Seminar",7,7
+LAIS,608,"Academic and Research Practices in Library, Archival and Information Studies",6,6
