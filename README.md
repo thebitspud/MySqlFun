@@ -1,2 +1,2 @@
-# MySqlFun
-Miscellaneous MySQL projects and experiments of mine
+# MySqueal
+Miscellaneous SQL projects and experiments of mine
